@@ -1,5 +1,8 @@
 
 -----------
+
+![ai-2018](https://fortunedotcom.files.wordpress.com/2018/01/ai.png)
+
 -----------
 
 ![uc](https://github.com/ci-ai/fundamentals/blob/master/user-cases/uc.PNG)
@@ -10,14 +13,9 @@
 
 ![patent holders](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/AI_patents_startups.png)
 
---------------
+---------------------
 
-![BCC Research](https://www.techemergence.com/wp-content/uploads/2016/07/1434543847605.jpg)
-
---------------
-machine-intelligence 1.0(2014)
-
-![machine-intelligence](https://medium.com/@shivon/the-current-state-of-machine-intelligence-f76c20db2fe1)
+![machine-intelligence](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/02/27121525/AI_MA_race_feb2018.png)
 
 --------------
 machine-intelligence 2.0(2015)
@@ -36,7 +34,7 @@ machine-intelligence 3.0(2016)
 
 --------------
 
-![ai-2018](https://fortunedotcom.files.wordpress.com/2018/01/ai.png)
+
 
 -----------
 
