@@ -1,5 +1,5 @@
 
-**Industrial use cases of computer vision**
+**Industrial use cases of computer vision technologies**
 
 * Video surveillance
 * Machine/vehicular object detection/identification/avoidance
