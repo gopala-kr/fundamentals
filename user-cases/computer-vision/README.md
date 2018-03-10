@@ -75,4 +75,76 @@ computer vision and deep learning, the demand outstrips the supply. Companies
 with deep pockets like Facebook and Google are continuing to attract top talent,
 leaving little room for others. 
 
+---------------------
 
+- Intel Corporation
+
+- Mercedes-Benz
+
+- Google (Alphabet)
+
+- Autoliv
+
+- PlayfulVision
+
+- Sportvision
+
+- 2d3 Sensing
+
+- Mirriad
+
+- Leap Motion
+
+- Wikitude
+
+- Facebook
+
+- Omron Adept Technology
+
+- Cognex
+
+- National Instruments
+
+- General Electric
+
+- Claron Technology
+
+- Mirada Medical
+
+- Crossmatch
+
+- Avigilon
+
+- Nomi
+
+- NVIDIA
+
+- Qualcomm
+
+- IRIDA Labs
+
+- CEVA
+
+- Auviz Systems
+
+- Berkeley Design Technology, Inc.Eyeris
+
+- Fetch Robotics
+
+- Ambarella
+
+- IntelliVision
+
+- EagleEye Intelligence
+
+- Videantis
+
+- Sightec
+
+- Xilinx
+
+- Digital Media Professionals
+
+- Additional Industry Participants
+
+---------------------
