@@ -1,7 +1,6 @@
 
 -----------
-
-![use cases](https://i.pinimg.com/originals/4c/90/e3/4c90e3ba6bd4faffdb37b6ae440a9eb2.png)
+-----------
 
 ![uc](https://github.com/ci-ai/fundamentals/blob/master/user-cases/uc.PNG)
 
