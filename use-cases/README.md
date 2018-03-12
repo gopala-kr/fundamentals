@@ -5,9 +5,9 @@
 
 -----------
 
-![uc](https://github.com/ci-ai/fundamentals/blob/master/user-cases/uc.PNG)
+![uc](https://github.com/ci-ai/fundamentals/blob/master/use-cases/uc.PNG)
 
-![uc_r](https://github.com/ci-ai/fundamentals/blob/master/user-cases/uc_revenue.PNG)
+![uc_r](https://github.com/ci-ai/fundamentals/blob/master/use-cases/uc_revenue.PNG)
 
 ---------------
 
