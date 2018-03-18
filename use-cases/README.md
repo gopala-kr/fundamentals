@@ -3,6 +3,7 @@
 
 ![ai-2018](https://fortunedotcom.files.wordpress.com/2018/01/ai.png)
 
+
 -----------
 
 ![uc](https://github.com/ci-ai/fundamentals/blob/master/use-cases/uc.PNG)
