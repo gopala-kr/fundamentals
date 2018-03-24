@@ -1,6 +1,8 @@
 
 [industries-disrupted-blockchain](https://www.cbinsights.com/research/industries-disrupted-blockchain/)
 
+--------------------------------------
+
 ![fb](https://media.blockchainhub.net/wp-content/uploads/2017/10/Blockchain-and-the-decentralized-web.jpg)
 ![dec](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/20155651/112017-Blockchain-4-V2.png)
 ![bit](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/21162301/112117-Blockchain-Explainer-V05-880x1376.png)
