@@ -1,6 +1,7 @@
 
 [industries-disrupted-blockchain](https://www.cbinsights.com/research/industries-disrupted-blockchain/)
 
+
 --------------------------------------
 
 ![fb](https://media.blockchainhub.net/wp-content/uploads/2017/10/Blockchain-and-the-decentralized-web.jpg)
@@ -18,6 +19,7 @@
 ![83438](https://media.blockchainhub.net/wp-content/uploads/2015/09/83438-1.jpg)
 ![1s9S2uYbtPGSHvqaW59DXtQ](https://media.blockchainhub.net/wp-content/uploads/2016/07/1s9S2uYbtPGSHvqaW59DXtQ.jpeg)
 ![YWgpJSx](https://media.blockchainhub.net/wp-content/uploads/2015/09/YWgpJSx.jpg)
+
 ![ICO](https://media.blockchainhub.net/wp-content/uploads/2017/11/ICO-roadmap.png)
 ![country](https://media.blockchainhub.net/wp-content/uploads/2018/03/What-if-Bitcoin-were-a-country-full.jpg)
 
