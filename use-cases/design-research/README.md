@@ -18,3 +18,7 @@
 ![ME310](http://dstudio.ubc.ca/files/2012/10/ME310.jpg)
 
 -----------------
+
+![3-gears-v1-940x774](http://dstudio.ubc.ca/files/2012/10/3-gears-v1-940x774.jpg)
+
+------------
