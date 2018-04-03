@@ -21,6 +21,10 @@
 
 ![3-gears-v1-940x774](http://dstudio.ubc.ca/files/2012/10/3-gears-v1-940x774.jpg)
 
+---------------
+
+![UX](https://github.com/ci-ai/fundamentals/blob/master/use-cases/design-research/UX.JPG)
+
 ------------
 
 
