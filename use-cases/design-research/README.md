@@ -28,23 +28,6 @@
     <div class="header-bg header-bg-full-bleed bg-section-screenshots">
     <div class="container">
       <div class="row">
-        <div class="col-xs-8 col-sm-8 col-md-9">
-          <div class="page-header">
-            <h1 class="small-xs">
-              Screenshots
-              <a href="#" data-toggle="elements" data-elements=".featured-collections" data-transition="slide" class="fa fa-chevron-down enable-tooltip" data-toggle="tooltip" data-placement="right" title="Toggle list of featured collections"></a>
-            </h1>
-          </div>
-        </div>
-        <div class="col-xs-4 col-sm-4 col-md-3">
-          <div class="page-header text-center">
-            <h2 class="smaller-xs">
-              <strong class="entries-count smaller-xs">16030</strong>
-              <span>examples found</span>
-            </h2>
-          </div>
-        </div>
-      </div>
       <div class="row">
         <div class="col-md-12">
           <div class="featured-collections overview-element" style="">
