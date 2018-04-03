@@ -1,5 +1,8 @@
 
 
+----------------
+
+![d-skills](https://github.com/ci-ai/fundamentals/blob/master/use-cases/design-research/d-skills.JPG)
 
 --------------
 
