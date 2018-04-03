@@ -14,3 +14,7 @@
 ![humandesigntoolkit](http://dstudio.sites.olt.ubc.ca/files/2012/10/humandesigntoolkit.jpg)
 
 ---------------------
+
+![ME310](http://dstudio.ubc.ca/files/2012/10/ME310.jpg)
+
+-----------------
