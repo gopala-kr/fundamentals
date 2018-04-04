@@ -37,6 +37,7 @@
 * [material-components-web](https://material.io/components/)
 * [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)
 * [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
+* [simple-icons](https://github.com/simple-icons/simple-icons)
 
 --------------
 
