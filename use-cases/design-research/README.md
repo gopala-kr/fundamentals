@@ -31,6 +31,11 @@
 ------------
 
 
+* [design-blocks](https://github.com/froala/design-blocks)
+* 
+
+--------------
+
 <section class="full-bleed" role="header">
     <div class="header-bg header-bg-full-bleed bg-section-screenshots">
     <div class="container">
