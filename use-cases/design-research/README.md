@@ -35,6 +35,8 @@
 * [awesome-design](https://github.com/gztchan/awesome-design)
 * [ant-design-pro](https://github.com/ant-design/ant-design-pro)
 * [material-components-web](https://material.io/components/)
+* [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)
+* [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
 
 --------------
 
