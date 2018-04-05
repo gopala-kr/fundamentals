@@ -1,13 +1,4 @@
 
----------------
-
-|| [atomicdesign](http://atomicdesign.bradfrost.com/) | [material-ui](https://github.com/mui-org/material-ui) | [material-design-icons](https://github.com/google/material-design-icons) |  [materialize](https://github.com/Dogfalo/materialize) |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() | 
-
-
-----------------
-
-![d-skills](https://github.com/ci-ai/fundamentals/blob/master/use-cases/design-research/d-skills.JPG)
-
 --------------
 
 ![ux_disciplines](http://www.kickerstudio.com/wp-content/uploads/2013/03/ux_disciplines_rev_big.jpg)
@@ -44,6 +35,9 @@
 * [simple-icons](https://github.com/simple-icons/simple-icons)
 * [vue-material](https://github.com/vuematerial/vue-material)
 
+---------------
+
+|| [atomicdesign](http://atomicdesign.bradfrost.com/) | [material-ui](https://github.com/mui-org/material-ui) | [material-design-icons](https://github.com/google/material-design-icons) |  [materialize](https://github.com/Dogfalo/materialize) |  [material-design-lite](https://github.com/google/material-design-lite) |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() |  []() | 
 --------------
 
 <section class="full-bleed" role="header">
