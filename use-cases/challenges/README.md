@@ -10,9 +10,11 @@ Intelligence - BCG report](http://image-src.bcg.com/Images/Reshaping%20Business%
 * [Accenture-Turning-Artificial-Intelligence-into-Business-Value](https://www.accenture.com/t20160814T215045__w__/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Documents/Global/PDF/Technology_11/Accenture-Turning-Artificial-Intelligence-into-Business-Value.pdf)
 * [ARTIFICIAL INTELLIGENCE
 IN THE REAL WORLD - EIU report](https://www.eiuperspectives.economist.com/sites/default/files/Artificial_intelligence_in_the_real_world_1.pdf)
-* []()
-* []()
-* []()
-* []()
+* [ai-predictions-2018](https://www.pwc.es/es/publicaciones/tecnologia/assets/ai-predictions-2018.pdf)
+* [Outlook on
+Artificial Intelligence
+in the Enterprise - OutlookOnAI2018](https://narrativescience.com/Portals/0/Images/PDFs/OutlookOnAI2018_NarrativeScience.pdf)
+* [How-Mobile-AI-Impact-Business](http://www.startelelogic.com/blog/wp-content/uploads/2017/04/How-Mobile-AI-Impact-Business.pdf.pdf)
+* [Deloitte Global TMT Predictions 2018 and implications on the Future of work](https://www2.deloitte.com/content/dam/Deloitte/lu/Documents/technology/lu-dds-global-tmt-predictions-2018-future-work.pdf)
 * []()
 
