@@ -1,5 +1,24 @@
 
 
+AI challenges
+
+
+* []()
+
+* []()
+
+
+
+
+
+
+
+
+
+
+
+----------------------
+
 * [ai-for-business-special-report-2017 - raconteur report](https://s3.amazonaws.com/cdn.ayasdi.com/wp-content/uploads/2017/05/09112500/ai-for-business-special-report-2017.pdf)
 * [TCS-GTS-how-AI-elevating-performance-global-companies](http://sites.tcs.com/artificial-intelligence/wp-content/uploads/TCS-GTS-how-AI-elevating-performance-global-companies.pdf)
 * [AI-in-Business- pega report](https://www1.pega.com/system/files/resources/2017-11/AI-in-Business.pdf)
@@ -16,5 +35,5 @@ Artificial Intelligence
 in the Enterprise - OutlookOnAI2018](https://narrativescience.com/Portals/0/Images/PDFs/OutlookOnAI2018_NarrativeScience.pdf)
 * [How-Mobile-AI-Impact-Business](http://www.startelelogic.com/blog/wp-content/uploads/2017/04/How-Mobile-AI-Impact-Business.pdf.pdf)
 * [Deloitte Global TMT Predictions 2018 and implications on the Future of work](https://www2.deloitte.com/content/dam/Deloitte/lu/Documents/technology/lu-dds-global-tmt-predictions-2018-future-work.pdf)
-* []()
+
 
