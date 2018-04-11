@@ -50,7 +50,8 @@
 * [The ultimate CSS battle: Grid vs Flexbox](https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf)
 * [Lesser known CSS quirks & advanced tips](https://medium.com/@peedutuisk/lesser-known-css-quirks-oddities-and-advanced-tips-css-is-awesome-8ee3d16295bb)
 * [Demystifying CSS alignment](https://medium.com/@patrickbrosset/demystifying-css-alignment-2d3ea7a02a36)
-
+* [CSS Naming Conventions that Will Save You Hours of Debugging](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
+* []()
 ---------------
 
 || [atomicdesign](http://atomicdesign.bradfrost.com/) | [material-ui](https://github.com/mui-org/material-ui) | [material-design-icons](https://github.com/google/material-design-icons) |  [materialize](https://github.com/Dogfalo/materialize) |  [material-design-lite](https://github.com/google/material-design-lite) |  [ant-design](https://github.com/ant-design/ant-design) |  [bulma](https://github.com/jgthms/bulma) |  [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) |  [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) |  [python-patterns](https://github.com/faif/python-patterns) |  [Flat-UI](https://github.com/designmodo/Flat-UI) |  [material2](https://github.com/angular/material2) |  [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) |  [muse-ui](https://github.com/museui/muse-ui) |  [go-patterns](https://github.com/tmrts/go-patterns) |  [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) | 
