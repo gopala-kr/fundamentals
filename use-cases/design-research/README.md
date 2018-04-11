@@ -42,6 +42,7 @@
 * [Why CSS Grid is better than Bootstrap for creating layouts](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163)
 * [Want to learn CSS Grid? Here’s my free full-length course. Merry Christmas!](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098)
 * [Bringing Sketch and After Effects Closer Together](https://medium.com/google-design/bringing-sketch-and-after-effects-closer-together-d83b3e729c93)
+* [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 
 ---------------
 
