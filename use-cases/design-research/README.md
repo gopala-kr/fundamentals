@@ -40,7 +40,7 @@
 * [Learn CSS Flexbox in 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34)
 * [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855)
 * [Why CSS Grid is better than Bootstrap for creating layouts](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163)
-* []()
+* [Want to learn CSS Grid? Here’s my free full-length course. Merry Christmas!](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098)
 * []()
 
 ---------------
