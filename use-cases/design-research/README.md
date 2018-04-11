@@ -41,7 +41,7 @@
 * [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855)
 * [Why CSS Grid is better than Bootstrap for creating layouts](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163)
 * [Want to learn CSS Grid? Here’s my free full-length course. Merry Christmas!](https://medium.freecodecamp.org/heres-my-free-css-grid-course-merry-christmas-3826dd24f098)
-* []()
+* [Bringing Sketch and After Effects Closer Together](https://medium.com/google-design/bringing-sketch-and-after-effects-closer-together-d83b3e729c93)
 
 ---------------
 
