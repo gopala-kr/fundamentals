@@ -116,8 +116,36 @@ and <a href="https://sdras.github.io/object-explorer/" target="_blank">JavaScrip
 <li>Mobile development, <a href="https://flutter.io/" target="_blank">still</a> <a href="https://facebook.github.io/react-native/" target="_blank">too</a> <a href="https://www.nativescript.org/" target="_blank">hard</a>. A strong rebellion advocating the <a href="https://blog.mozilla.org/firefox/progressive-web-apps-whats-big-deal/" target="_blank">web platform</a> as a solution to the pain <a href="https://joreteg.com/blog/betting-on-the-web" target="_blank">gained momentum</a> this year.</li>
 </ul>
 
+</section>
+
+<section class="normal markdown-section">
+                                <h1 id="in-2018-expect">In 2018 expect...</h1>
+<ul>
+<li>Nothing will change or slow the usage or popularity of React for many years to come.</li>
+<li>GraphQL will <a href="https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4" target="_blank">replace</a> a lot of REST API&apos;s this year.</li>
+<li>The web will continue to become more native-like with offline capabilities and seamless mobile experiences.</li>
+<li>HTML 5.3 is <a href="https://www.w3.org/blog/2017/12/html-5-2-is-done-html-5-3-is-coming/" target="_blank">coming</a>.</li>
+<li>Keep an eye on <a href="https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403" target="_blank">turbo</a>, a blazing fast NPM client.</li>
+<li>Expect to learn and use <a href="https://caniuse.com/#feat=transforms3d" target="_blank">CSS transforms 3d</a>, <a href="https://caniuse.com/#search=transitions" target="_blank">CSS transitions</a>, <a href="https://caniuse.com/#search=flex" target="_blank">CSS flexbox</a>, <a href="https://caniuse.com/#feat=css-filters" target="_blank">CSS filters</a>, <a href="https://caniuse.com/#search=grid" target="_blank">CSS grid</a></li>
+<li><a href="https://insights.stackoverflow.com/survey/2017#technology-programming-languages" target="_blank">JavaScript usage will continue to grow</a> with no <a href="https://insights.stackoverflow.com/survey/2017#technology-most-popular-languages-by-occupation" target="_blank">slowdown in sight</a>.</li>
+<li>Still waiting on <a href="http://webassembly.org/" target="_blank">Web Assembly</a> to peak. This will likely require <a href="https://webassembly.studio" target="_blank">tooling</a>.</li>
+<li>Universal/isomorphic JavaScript solutions continue to evolve e.g. <a href="https://github.com/zeit/next.js" target="_blank">next.js</a> and <a href="https://sapper.svelte.technology/" target="_blank">Sapper</a>.</li>
+<li>Web components still lurk and wait for significant traction from developers.</li>
+<li>I believe the end is in sight for <a href="https://css-tricks.com/future-front-end-web-development/#article-header-id-7" target="_blank">CSS pre-processors</a> as <a href="https://github.com/postcss" target="_blank">PostCSS</a>, <a href="http://cssnext.io/" target="_blank">CSSnext</a>, and CSS in JS take over.</li>
+<li>Older server centric <a href="https://unpoly.com" target="_blank">application patterns</a> show <a href="https://github.com/turbolinks/turbolinks" target="_blank">up again</a> but <a href="https://goiabada.blog/can-you-build-a-single-page-application-without-a-front-end-framework-6799cee03750" target="_blank">with</a> a <a href="http://triskweline.de/unpoly-rugb/#/41" target="_blank">new</a> <a href="https://github.com/stimulusjs/stimulus" target="_blank">spin</a>. The pendulum could <a href="http://blog.bloomca.me/2018/02/04/spa-is-not-silver-bullet.html" target="_blank">start</a> to swinging <a href="https://m.signalvnoise.com/stimulus-1-0-a-modest-javascript-framework-for-the-html-you-already-have-f04307009130" target="_blank">away from strick SPA applications</a>. People will begin to <a href="https://m.signalvnoise.com/stimulus-1-0-a-modest-javascript-framework-for-the-html-you-already-have-f04307009130" target="_blank">pull back on the complexity of single page applications</a> and return to things like <a href="https://github.com/defunkt/jquery-pjax" target="_blank">pjax</a> (A mix of SPA and Server-side Rendering. See <a href="https://stimulusjs.org/handbook/introduction" target="_blank">https://stimulusjs.org</a>).</li>
+<li><a href="https://developers.google.com/web/progressive-web-apps/" target="_blank">Progressive Web Applications</a> hopefully will catch fire. If they don&apos;t, I fear they never will. At least not in their current form.</li>
+<li><a href="http://merehead.com/blog/web-development-trends-2018/" target="_blank">&quot;Chatbots created on the basis of artificial intelligence and neural networks will continue to evolve helping to increase communication online. I wonder what it will lead to, but this is unconditional web development trends 2018&quot;</a>. Nods.</li>
+<li>Vue.js <a href="http://www.npmtrends.com/@angular/core-vs-angular-vs-react-vs-vue" target="_blank">usage will likely overtake all Angular usage</a>.</li>
+<li>AR/AV, <a href="https://www.independent.co.uk/life-style/gadgets-and-tech/news/facebook-artificial-intelligence-ai-chatbot-new-language-research-openai-google-a7869706.html" target="_blank">AI</a>, and chat bots will continue to evolve and find their sweet spot.</li>
+<li>JavaScript <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol" target="_blank">Symbol</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator" target="_blank">Generators</a> will likely go unnoticed by most front-end developers.</li>
+<li>More developers will divorce themselves from plain JavaScript and try <a href="http://elm-lang.org/" target="_blank">to</a> <a href="https://www.typescriptlang.org/index.html" target="_blank">marry</a> <a href="https://reasonml.github.io/" target="_blank">another</a>. But, just like in marital divorce one always takes most of the same problems with them to the greener grass and little actually changes. Preferences and values just get re-prioritized and <a href="http://coffeescript.org/" target="_blank">history will repeat itself</a>.</li>
+<li>Webpack 4 will happen, and be better, due to competition!</li>
+<li>Continued <a href="https://css-in-js-playground.com/?theme=light" target="_blank">exploration</a> for the ideal CSS solution for a tree of UI components will not cease.</li>
+<li>State management gets a <a href="https://www.youtube.com/watch?v=kp-NOggyz54" target="_blank">reset</a> and <a href="https://github.com/thejameskyle/unstated" target="_blank">people start to simplify</a>. Hopefully, this will be the year for solutions like <a href="https://github.com/mobxjs/mobx" target="_blank">mobx</a> to shine.</li>
+</ul>
+
                                 
-                                </section>
+</section>
 
 --------------
 
