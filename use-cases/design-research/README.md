@@ -44,7 +44,7 @@
 * [Bringing Sketch and After Effects Closer Together](https://medium.com/google-design/bringing-sketch-and-after-effects-closer-together-d83b3e729c93)
 * [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 * [Design Better Forms](https://uxdesign.cc/design-better-forms-96fadca0f49c)
-* []()
+* [Good to great UI animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5)
 
 ---------------
 
