@@ -52,6 +52,8 @@
 * [Demystifying CSS alignment](https://medium.com/@patrickbrosset/demystifying-css-alignment-2d3ea7a02a36)
 * [CSS Naming Conventions that Will Save You Hours of Debugging](https://medium.freecodecamp.org/css-naming-conventions-that-will-save-you-hours-of-debugging-35cea737d849)
 * [typography-that-sacred-cow](https://medium.muz.li/typography-that-sacred-cow-ea7a5909ca70)
+* [11 Optical Illusions Found in Visual Design](https://blog.prototypr.io/11-optical-illusions-found-in-visual-design-295e7ae211b9)
+* [Why Your App Looks Better in Sketch](https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7)
 
 ---------------
 
