@@ -56,6 +56,7 @@
 * [Why Your App Looks Better in Sketch](https://medium.com/@nathangitter/why-your-app-looks-better-in-sketch-3a01b22c43d7)
 * [12 Mobile UX Design Trends For 2018](https://uxplanet.org/12-mobile-ux-design-trends-for-2018-5b4ce7e8445f)
 * [Your logo is copied](https://medium.com/@fvo/your-logo-is-copied-710ac4604258)
+* [Why CSS Grid is better than Bootstrap for creating layouts](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163)
 
 ---------------
 
