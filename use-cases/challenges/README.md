@@ -15,7 +15,8 @@
 
 ----------------------
 
-
+* [IOTA Data Marketplace](https://blog.iota.org/iota-data-marketplace-cb6be463ac7f)
+* [IOTA_Whitepaper](https://iota.org/IOTA_Whitepaper.pdf)
 * [ai-for-business-special-report-2017 - raconteur report](https://s3.amazonaws.com/cdn.ayasdi.com/wp-content/uploads/2017/05/09112500/ai-for-business-special-report-2017.pdf)
 * [Reshaping
 Business With
