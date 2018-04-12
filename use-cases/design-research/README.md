@@ -58,6 +58,7 @@
 * [Your logo is copied](https://medium.com/@fvo/your-logo-is-copied-710ac4604258)
 * [Why CSS Grid is better than Bootstrap for creating layouts](https://hackernoon.com/how-css-grid-beats-bootstrap-85d5881cf163)
 * [Introducing: Figma’s Platform](https://blog.figma.com/introducing-figmas-platform-ee681bf861e7)
+* [Modern CSS Explained For Dinosaurs](https://medium.com/actualize-network/modern-css-explained-for-dinosaurs-5226febe3525)
 
 ---------------
 
