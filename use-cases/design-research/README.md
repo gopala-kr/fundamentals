@@ -62,6 +62,7 @@
 * [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
 * [Sketch Libraries: How they work, and the crazy stuff you can do with them](https://medium.com/ux-power-tools/sketch-libraries-how-they-work-and-the-crazy-stuff-you-can-do-with-them-fc10f142ac80)
 * [The anatomy of a Bootstrap dashboard that earns $1,000s each month](https://medium.freecodecamp.org/the-anatomy-of-a-bootstrap-dashboard-that-earns-1-000s-each-month-ed3404010d25)
+* [Make me think!](https://blog.prototypr.io/make-me-think-90b46aa50513)
 
 ---------------
 
