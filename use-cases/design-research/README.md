@@ -84,7 +84,7 @@
 * [How to recreate Medium’s article layout with CSS Grid](https://medium.freecodecamp.org/how-to-recreate-mediums-article-layout-with-css-grid-b4608792bad1)
 * [Vue.js components: an interactive guide](https://medium.freecodecamp.org/vue-js-components-an-interactive-guide-1b8149ecc254)
 * [The Best Cheat Sheets, Guides & Docs for Web Designers and Web Developers](https://medium.com/level-up-web/the-best-cheat-sheets-guides-docs-for-web-designers-and-web-developers-8e335a0aad77)
-* []()
+* [React Native & Firebase: Authentication](https://medium.com/react-native-training/react-native-firebase-authentication-7652e1d2c8a2)
 
 
 ---------------
