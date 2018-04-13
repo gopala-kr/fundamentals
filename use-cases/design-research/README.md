@@ -81,8 +81,8 @@
 * [How to create a fully responsive navbar with Flexbox](https://medium.freecodecamp.org/how-to-create-a-fully-responsive-navbar-with-flexbox-a4435d175dd3)
 * [I just launched a free full-length Flexbox course where you can build projects interactively](https://medium.freecodecamp.org/i-just-launched-a-free-full-length-flexbox-course-where-you-can-build-projects-interactively-1860e3d3c4af)
 * [Learn CSS Flexbox in 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34)
-* []()
-* []()
+* [How to recreate Medium’s article layout with CSS Grid](https://medium.freecodecamp.org/how-to-recreate-mediums-article-layout-with-css-grid-b4608792bad1)
+* [Vue.js components: an interactive guide](https://medium.freecodecamp.org/vue-js-components-an-interactive-guide-1b8149ecc254)
 * []()
 * []()
 
