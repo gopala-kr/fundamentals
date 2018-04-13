@@ -67,6 +67,7 @@
 * [How Flexbox works — explained with big, colorful, animated gifs](https://medium.freecodecamp.org/an-animated-guide-to-flexbox-d280cf6afc35)
 * [Design for iPhone X](https://medium.com/in-the-pocket-insights/designing-for-the-iphone-x-4239d5ac736c)
 * [How to prototype websites quickly with CSS Grid](https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
+* [Learn Bootstrap 4 in 5 minutes](https://medium.freecodecamp.org/learn-bootstrap-4-in-5-minutes-da94728efe41)
 
 
 ---------------
