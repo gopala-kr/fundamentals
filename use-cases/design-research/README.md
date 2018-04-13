@@ -83,7 +83,7 @@
 * [Learn CSS Flexbox in 5 Minutes](https://medium.freecodecamp.org/learn-css-flexbox-in-5-minutes-b941f0affc34)
 * [How to recreate Medium’s article layout with CSS Grid](https://medium.freecodecamp.org/how-to-recreate-mediums-article-layout-with-css-grid-b4608792bad1)
 * [Vue.js components: an interactive guide](https://medium.freecodecamp.org/vue-js-components-an-interactive-guide-1b8149ecc254)
-* []()
+* [The Best Cheat Sheets, Guides & Docs for Web Designers and Web Developers](https://medium.com/level-up-web/the-best-cheat-sheets-guides-docs-for-web-designers-and-web-developers-8e335a0aad77)
 * []()
 
 
