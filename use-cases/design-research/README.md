@@ -69,6 +69,7 @@
 * [How to prototype websites quickly with CSS Grid](https://medium.freecodecamp.org/how-to-prototype-websites-quickly-with-css-grid-ffc9cba08583)
 * [Learn Bootstrap 4 in 5 minutes](https://medium.freecodecamp.org/learn-bootstrap-4-in-5-minutes-da94728efe41)
 * [Learn to visualize data with this free D3.js course](https://medium.freecodecamp.org/learn-to-visualize-data-with-this-free-d3-js-course-2433b060f9dc)
+* [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 
 ---------------
 
