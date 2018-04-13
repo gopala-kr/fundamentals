@@ -73,6 +73,8 @@
 * [Learn Bulma in 5 minutes](https://medium.freecodecamp.org/learn-bulma-in-5-minutes-ec5188c53e83)
 * [Want to learn how to build websites? Here’s our free, full-length HTML5 course.](https://medium.freecodecamp.org/want-to-learn-how-to-built-websites-heres-our-free-full-length-html5-course-4ca68cd4a39a)
 * [Building your first Bootstrap 4.0 site](https://medium.freecodecamp.org/building-your-first-bootstrap-4-0-site-b54bbff6bc55)
+* [Want to learn Bootstrap 4? Here’s our free 10-part course. Happy Easter!](https://medium.freecodecamp.org/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4)
+
 ---------------
 
 || [atomicdesign](http://atomicdesign.bradfrost.com/) | [material-ui](https://github.com/mui-org/material-ui) | [material-design-icons](https://github.com/google/material-design-icons) |  [materialize](https://github.com/Dogfalo/materialize) |  [material-design-lite](https://github.com/google/material-design-lite) |  [ant-design](https://github.com/ant-design/ant-design) |  [bulma](https://github.com/jgthms/bulma) |  [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) |  [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) |  [python-patterns](https://github.com/faif/python-patterns) |  [Flat-UI](https://github.com/designmodo/Flat-UI) |  [material2](https://github.com/angular/material2) |  [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) |  [muse-ui](https://github.com/museui/muse-ui) |  [go-patterns](https://github.com/tmrts/go-patterns) |  [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ||
