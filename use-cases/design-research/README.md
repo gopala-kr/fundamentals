@@ -74,6 +74,18 @@
 * [Want to learn how to build websites? Here’s our free, full-length HTML5 course.](https://medium.freecodecamp.org/want-to-learn-how-to-built-websites-heres-our-free-full-length-html5-course-4ca68cd4a39a)
 * [Building your first Bootstrap 4.0 site](https://medium.freecodecamp.org/building-your-first-bootstrap-4-0-site-b54bbff6bc55)
 * [Want to learn Bootstrap 4? Here’s our free 10-part course. Happy Easter!](https://medium.freecodecamp.org/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4)
+* [How to make responsiveness super simple with CSS Variables](https://medium.freecodecamp.org/how-to-make-responsiveness-super-simple-with-css-variables-8c90ebf80d7f)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+
 
 ---------------
 
