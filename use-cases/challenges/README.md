@@ -31,6 +31,7 @@ Artificial Intelligence
 in the Enterprise - OutlookOnAI2018](https://narrativescience.com/Portals/0/Images/PDFs/OutlookOnAI2018_NarrativeScience.pdf)
 * [How-Mobile-AI-Impact-Business](http://www.startelelogic.com/blog/wp-content/uploads/2017/04/How-Mobile-AI-Impact-Business.pdf.pdf)
 * [Top 9 ethical issues in artificial intelligence-World Economic Forum](https://www.weforum.org/agenda/2016/10/top-10-ethical-issues-in-artificial-intelligence/)
+* [Barriers to Data Sharing](https://www.nap.edu/read/18267/chapter/4)
 
 ---------------------
 
