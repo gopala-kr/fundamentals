@@ -32,9 +32,16 @@ in the Enterprise - OutlookOnAI2018](https://narrativescience.com/Portals/0/Imag
 * [How-Mobile-AI-Impact-Business](http://www.startelelogic.com/blog/wp-content/uploads/2017/04/How-Mobile-AI-Impact-Business.pdf.pdf)
 * [Top 9 ethical issues in artificial intelligence-World Economic Forum](https://www.weforum.org/agenda/2016/10/top-10-ethical-issues-in-artificial-intelligence/)
 * [Barriers to Data Sharing](https://www.nap.edu/read/18267/chapter/4)
+* [Hardware options for Machine/Deep Learning](https://mse238blog.stanford.edu/2017/07/gnakhare/hardware-options-for-machinedeep-learning/)
+* [FPGAs and AI processors: DNN and CNN for all](https://meanderful.blogspot.in/2017/06/fpgas-and-ai-processors-dnn-and-cnn-for.html)
+* [12 AI Hardware Startups Building New AI Chips](https://www.nanalyze.com/2017/05/12-ai-hardware-startups-new-ai-chips/)
+
 
 ---------------------
 
+![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
+
+-------------------
 AI and Knowledge
 
 - AI-based knowledge engineering and management
