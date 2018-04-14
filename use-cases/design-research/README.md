@@ -93,7 +93,7 @@
 
 
 
-|| [solar](https://bootswatch.com/solar/) | [html5 templates](http://wrapbootstrap.com/preview/WB0F82581) | [bootswatch](https://github.com/thomaspark/bootswatch) | [startbootstrap](https://github.com/BlackrockDigital/startbootstrap) | [sb-admin-2](https://startbootstrap.com/template-overviews/sb-admin-2/) | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []()
+|| [solar](https://bootswatch.com/solar/) | [html5 templates](http://wrapbootstrap.com/preview/WB0F82581) | [bootswatch](https://github.com/thomaspark/bootswatch) | [startbootstrap](https://github.com/BlackrockDigital/startbootstrap) | [sb-admin-2](https://startbootstrap.com/template-overviews/sb-admin-2/) | [weather-icons](https://erikflowers.github.io/weather-icons/) | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []() | []()
 
 -------------------
 
