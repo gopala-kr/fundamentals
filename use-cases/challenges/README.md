@@ -38,6 +38,7 @@ in the Enterprise - OutlookOnAI2018](https://narrativescience.com/Portals/0/Imag
 * [Neural Network Accelerator Inference](https://nicsefc.ee.tsinghua.edu.cn/projects/neural-network-accelerator/)
 * [Investing in GPUs for AI – AMD GPUs vs NVIDIA GPUs](https://www.nanalyze.com/2017/05/investing-gpus-ai-amd-vs-nvidia/)
 * [Tutorial on Hardware Architectures for Deep Neural Networks - MIT](http://eyeriss.mit.edu/tutorial.html)
+* [AI INDEX, NOVEMBER 2017](https://aiindex.org/2017-report.pdf)
 ---------------------
 
 ![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
