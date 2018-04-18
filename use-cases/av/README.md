@@ -67,5 +67,5 @@ Different media sources where we can find self-driving car related topics, ideas
 * NVIDIA Drive PX2 self-driving car platform visualized. [[watch](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
 
 #### Blogs
-1. [Deep Learning and Autonomous Driving](https://handong1587.github.io/deep_learning/2015/10/09/dl-and-autonomous-driving.html)
+
 * [[Medium] Self-Driving Cars](https://medium.com/self-driving-cars)
