@@ -40,6 +40,8 @@ in the Enterprise - OutlookOnAI2018](https://narrativescience.com/Portals/0/Imag
 * [Tutorial on Hardware Architectures for Deep Neural Networks - MIT](http://eyeriss.mit.edu/tutorial.html)
 * [AI INDEX, NOVEMBER 2017](https://aiindex.org/2017-report.pdf)
 * [insights from O’Reilly](http://www.oreilly.com/data/free/?intcmp=il-data-free-lp-lgen_ai_con_resources_page)
+* [Artificial
+Intelligence Now - Current Perspectives from O’Reilly Media](http://www.oreilly.com/data/free/files/artificial-intelligence-now.pdf)
 ---------------------
 
 ![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
