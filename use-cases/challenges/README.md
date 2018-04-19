@@ -39,6 +39,7 @@ in the Enterprise - OutlookOnAI2018](https://narrativescience.com/Portals/0/Imag
 * [Investing in GPUs for AI – AMD GPUs vs NVIDIA GPUs](https://www.nanalyze.com/2017/05/investing-gpus-ai-amd-vs-nvidia/)
 * [Tutorial on Hardware Architectures for Deep Neural Networks - MIT](http://eyeriss.mit.edu/tutorial.html)
 * [AI INDEX, NOVEMBER 2017](https://aiindex.org/2017-report.pdf)
+* [insights from O’Reilly](http://www.oreilly.com/data/free/?intcmp=il-data-free-lp-lgen_ai_con_resources_page)
 ---------------------
 
 ![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
