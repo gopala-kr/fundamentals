@@ -69,3 +69,9 @@ Different media sources where we can find self-driving car related topics, ideas
 #### Blogs
 
 * [[Medium] Self-Driving Cars](https://medium.com/self-driving-cars)
+
+----------------
+
+ ![autonomous_cars_how_would_you_spend_your_time](https://infographic.statista.com/normal/chartoftheday_13463_autonomous_cars_how_would_you_spend_your_time_n.jpg)
+
+
