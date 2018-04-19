@@ -80,3 +80,6 @@ Different media sources where we can find self-driving car related topics, ideas
 
 ![is_in_car_advertising_the_future](https://infographic.statista.com/normal/chartoftheday_13399_is_in_car_advertising_the_future_n.jpg)
 
+
+
+![how_old_are_your_favorite_tech_companies](https://infographic.statista.com/normal/chartoftheday_12991_how_old_are_your_favorite_tech_companies_n.jpg)
