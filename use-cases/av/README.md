@@ -86,3 +86,6 @@ Different media sources where we can find self-driving car related topics, ideas
 
 
 ![diverse_ways_of_making_money_in_tech](https://infographic.statista.com/normal/chartoftheday_13193_the_diverse_ways_of_making_money_in_tech_n.jpg)
+
+
+![chartoftheday_11690_the_top_reasons_startups_fail](https://infographic.statista.com/normal/chartoftheday_11690_the_top_reasons_startups_fail_n.jpg)
