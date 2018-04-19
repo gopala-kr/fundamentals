@@ -83,3 +83,6 @@ Different media sources where we can find self-driving car related topics, ideas
 
 
 ![how_old_are_your_favorite_tech_companies](https://infographic.statista.com/normal/chartoftheday_12991_how_old_are_your_favorite_tech_companies_n.jpg)
+
+
+![diverse_ways_of_making_money_in_tech](https://infographic.statista.com/normal/chartoftheday_13193_the_diverse_ways_of_making_money_in_tech_n.jpg)
