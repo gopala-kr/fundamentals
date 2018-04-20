@@ -50,6 +50,7 @@ Machine Intelligence](http://www.oreilly.com/data/free/files/future-of-machine-i
 * [evaluating-machine-learning-models](http://www.oreilly.com/data/free/files/evaluating-machine-learning-models.pdf)
 * [going-pro-in-data-science](http://www.oreilly.com/data/free/files/going-pro-in-data-science.pdf)
 * [what-are-conversational-bots](http://www.oreilly.com/data/free/files/what-are-conversational-bots.pdf)
+* [fast-data-smart-and-at-scale](http://www.oreilly.com/data/free/files/fast-data-smart-and-at-scale.pdf)
 ---------------------
 
 ![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
