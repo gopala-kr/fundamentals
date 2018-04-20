@@ -46,6 +46,7 @@ Intelligence Now - Current Perspectives from O’Reilly Media](http://www.oreill
 Machine Intelligence](http://www.oreilly.com/data/free/files/future-of-machine-intelligence.pdf)
 * [rage_frameworks](https://www.gartner.com/imagesrv/media-products/pdf/rage_frameworks/rage-frameworks-1-34JHQ0K.pdf)
 * [evaluating-machine-learning-models](http://www.oreilly.com/data/free/files/evaluating-machine-learning-models.pdf)
+* [going-pro-in-data-science](http://www.oreilly.com/data/free/files/going-pro-in-data-science.pdf)
 ---------------------
 
 ![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
