@@ -16,6 +16,7 @@
 ----------------------
 
 * [the-global-impact-of-open-data](http://www.oreilly.com/data/free/files/the-global-impact-of-open-data.pdf)
+* [architecting-for-access](http://www.oreilly.com/data/free/files/architecting-for-access.pdf)
 * [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18)
 * [IOTA Data Marketplace](https://blog.iota.org/iota-data-marketplace-cb6be463ac7f)
 * [IOTA_Whitepaper](https://iota.org/IOTA_Whitepaper.pdf)
