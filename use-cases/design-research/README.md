@@ -86,6 +86,8 @@
 * [The Best Cheat Sheets, Guides & Docs for Web Designers and Web Developers](https://medium.com/level-up-web/the-best-cheat-sheets-guides-docs-for-web-designers-and-web-developers-8e335a0aad77)
 * [React Native & Firebase: Authentication](https://medium.com/react-native-training/react-native-firebase-authentication-7652e1d2c8a2)
 * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* [How to ship production-grade Go](https://www.oreilly.com/ideas/how-to-ship-production-grade-go)
+
 ---------------
 
 || [atomicdesign](http://atomicdesign.bradfrost.com/) | [material-ui](https://github.com/mui-org/material-ui) | [material-design-icons](https://github.com/google/material-design-icons) |  [materialize](https://github.com/Dogfalo/materialize) |  [material-design-lite](https://github.com/google/material-design-lite) |  [ant-design](https://github.com/ant-design/ant-design) |  [bulma](https://github.com/jgthms/bulma) |  [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) |  [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) |  [python-patterns](https://github.com/faif/python-patterns) |  [Flat-UI](https://github.com/designmodo/Flat-UI) |  [material2](https://github.com/angular/material2) |  [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) |  [muse-ui](https://github.com/museui/muse-ui) |  [go-patterns](https://github.com/tmrts/go-patterns) |  [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ||
