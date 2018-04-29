@@ -168,3 +168,26 @@ Applications in specific domains such as
 
 - ICT4D (Knowledge in the developing world)
 
+
+-------------
+
+—  Artificial Intelligence
+—  Computer Vision
+—  Spatial Cognition and Computation
+—  Cognitive Science and Psychology
+—  Visual Perception
+—  Cognitive Linguistics
+
+Application domains being addressed include, but are not limited to:
+
+—  autonomous driving
+—  cognitive robotics
+—  vision for UAVs
+—  visual art, fashion, cultural heritage
+—  vision in biology (e.g., animal, plant)
+—  vision and VR
+—  vision for social science, humanities
+—  vision for psychology, human behaviour studies
+—  social signal processing, social media
+—  remote sensing, GIS
+—  medical imaging
