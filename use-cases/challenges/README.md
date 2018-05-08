@@ -55,6 +55,7 @@ Machine Intelligence](http://www.oreilly.com/data/free/files/future-of-machine-i
 
 ![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
 
+
 -------------------
 AI and Knowledge
 
