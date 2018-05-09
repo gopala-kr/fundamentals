@@ -92,7 +92,7 @@
 * [img-2](https://github.com/RevillWeb/img-2)
 * [Understanding Position in CSS](https://medium.com/@jacobgreenaway12/taming-the-css-beast-master-positioning-5882bad14458)
 * [purecss-francine](https://github.com/cyanharlow/purecss-francine)
-
+* [conversational-ui-principles-complete-process-of-designing-a-website-chatbot](https://medium.com/swlh/conversational-ui-principles-complete-process-of-designing-a-website-chatbot-d0c2a5fee376)
 ---------------
 
 || [atomicdesign](http://atomicdesign.bradfrost.com/) | [material-ui](https://github.com/mui-org/material-ui) | [material-design-icons](https://github.com/google/material-design-icons) |  [materialize](https://github.com/Dogfalo/materialize) |  [material-design-lite](https://github.com/google/material-design-lite) |  [ant-design](https://github.com/ant-design/ant-design) |  [bulma](https://github.com/jgthms/bulma) |  [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) |  [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) |  [python-patterns](https://github.com/faif/python-patterns) |  [Flat-UI](https://github.com/designmodo/Flat-UI) |  [material2](https://github.com/angular/material2) |  [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) |  [muse-ui](https://github.com/museui/muse-ui) |  [go-patterns](https://github.com/tmrts/go-patterns) |  [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ||
