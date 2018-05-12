@@ -51,6 +51,8 @@ Machine Intelligence](http://www.oreilly.com/data/free/files/future-of-machine-i
 * [going-pro-in-data-science](http://www.oreilly.com/data/free/files/going-pro-in-data-science.pdf)
 * [what-are-conversational-bots](http://www.oreilly.com/data/free/files/what-are-conversational-bots.pdf)
 * [fast-data-smart-and-at-scale](http://www.oreilly.com/data/free/files/fast-data-smart-and-at-scale.pdf)
+* [Report of Task Force on Artificial Intelligence-India](http://dipp.nic.in/whats-new/report-task-force-artificial-intelligence)
+
 ---------------------
 
 ![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
