@@ -35,9 +35,13 @@ machine-intelligence 3.0(2016)
 
 ![CBI-Tech-Startups-Map](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/01/19170900/CBI-Tech-Startups-Map.jpg)
 
+![BAT-AI-deals-geo_2018](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/25154530/BAT-AI-deals-geo_2018-04.png)
+
 --------------
 
 * [28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/?utm_source=medium&utm_medium=referral&utm_term=syndication)
+
+
 
 --------------
 
