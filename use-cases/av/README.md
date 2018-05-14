@@ -72,6 +72,7 @@ Different media sources where we can find self-driving car related topics, ideas
 
 ----------------
 
+![Baidu-apollo-global-partners](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/26134449/Baidu-apollo-global-partners_2018-04_1-1024x768.png)
  ![autonomous_cars_how_would_you_spend_your_time](https://infographic.statista.com/normal/chartoftheday_13463_autonomous_cars_how_would_you_spend_your_time_n.jpg)
 
 ![perceived_safety_of_self_driving_cars](https://infographic.statista.com/normal/chartoftheday_13450_perceived_safety_of_self_driving_cars_n.jpg)
