@@ -7,4 +7,5 @@
 ![alibaba_identity_authentication_US_patent](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/14142930/alibaba_identity_authentication_US_patent.png)
 
 ![image-3-1024x602](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/10155517/image-3-1024x602.png)
+![deepmind](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/22123540/deepmind-data-infrastructure-1024x576.png)
 ![Retail](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/02161338/180327-AI-for-Retail-V61-880x2775.jpg)
