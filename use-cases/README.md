@@ -49,6 +49,8 @@ machine-intelligence 3.0(2016)
 ![alphabet](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/20143604/alphabet-structure.png)
 
 ![cbi](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13120644/RnD.png)
+![research](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/15191614/robots3.png)
+
 
 --------------
 
