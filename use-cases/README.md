@@ -48,6 +48,8 @@ machine-intelligence 3.0(2016)
 
 ![alphabet](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/20143604/alphabet-structure.png)
 
+![cbi](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13120644/RnD.png)
+
 --------------
 
 * [28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/?utm_source=medium&utm_medium=referral&utm_term=syndication)
