@@ -52,6 +52,7 @@ Machine Intelligence](http://www.oreilly.com/data/free/files/future-of-machine-i
 * [what-are-conversational-bots](http://www.oreilly.com/data/free/files/what-are-conversational-bots.pdf)
 * [fast-data-smart-and-at-scale](http://www.oreilly.com/data/free/files/fast-data-smart-and-at-scale.pdf)
 * [Report of Task Force on Artificial Intelligence-India](http://dipp.nic.in/whats-new/report-task-force-artificial-intelligence)
+* [State-of-Artificial-Intelligence-2018](https://www.cbinsights.com/reports/CB-Insights_State-of-Artificial-Intelligence-2018.pdf)
 
 ---------------------
 
