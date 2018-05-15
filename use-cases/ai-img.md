@@ -9,3 +9,4 @@
 ![image-3-1024x602](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/10155517/image-3-1024x602.png)
 ![deepmind](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/22123540/deepmind-data-infrastructure-1024x576.png)
 ![Retail](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/02161338/180327-AI-for-Retail-V61-880x2775.jpg)
+![5021bd56](https://gallery.mailchimp.com/0c60818e26ecdbe423a10ad2f/images/5021bd56-e590-4b7a-84b2-0013f2f196d4.png)
