@@ -51,6 +51,7 @@ machine-intelligence 3.0(2016)
 ![cbi](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13120644/RnD.png)
 ![research](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/15191614/robots3.png)
 
+![chartoftheday_13840_main_concerns_ai_customer_service_india_n](https://infographic.statista.com/normal/chartoftheday_13840_main_concerns_ai_customer_service_india_n.jpg)
 
 --------------
 
