@@ -53,7 +53,7 @@ Machine Intelligence](http://www.oreilly.com/data/free/files/future-of-machine-i
 * [fast-data-smart-and-at-scale](http://www.oreilly.com/data/free/files/fast-data-smart-and-at-scale.pdf)
 * [Report of Task Force on Artificial Intelligence-India](http://dipp.nic.in/whats-new/report-task-force-artificial-intelligence)
 * [State-of-Artificial-Intelligence-2018](https://www.cbinsights.com/reports/CB-Insights_State-of-Artificial-Intelligence-2018.pdf)
-
+* [The Ethical Implications of AI REWORK 2018](http://reworkco.domain.com/TheEthicalImplicationsofAIREWORK2018.pdf)
 ---------------------
 
 ![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
