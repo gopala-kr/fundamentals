@@ -72,6 +72,7 @@ Different media sources where we can find self-driving car related topics, ideas
 
 ----------------
 
+![chartoftheday_13450_perceived_safety_of_self_driving_cars_n](https://infographic.statista.com/normal/chartoftheday_13450_perceived_safety_of_self_driving_cars_n.jpg)
 ![chartoftheday_13860_americans_expect_driverless_cars_to_be_common_in_10_years_n](https://infographic.statista.com/normal/chartoftheday_13860_americans_expect_driverless_cars_to_be_common_in_10_years_n.jpg)
 ![chartoftheday_13868_registered_autonomous_vehicles_to_be_tested_in_california_n](https://infographic.statista.com/normal/chartoftheday_13868_registered_autonomous_vehicles_to_be_tested_in_california_n.jpg)
 ![chartoftheday_10879_autonomous_driving_patents_n](https://infographic.statista.com/normal/chartoftheday_10879_autonomous_driving_patents_n.jpg)
