@@ -1,4 +1,7 @@
 
+
+---------------------------------
+
 ![OC4rR9I_FAX0T5Y30nyOLw](https://cdn-images-1.medium.com/max/800/1*OC4rR9I_FAX0T5Y30nyOLw.png)
 ![Big_tech_in_AI_2](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/02151809/Big_tech_in_AI_2-884x1024.png)
 ![Microsoft](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/19112631/Microsoft-Google-in-AI-1024x627.png)
