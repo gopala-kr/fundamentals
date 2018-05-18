@@ -60,7 +60,7 @@ machine-intelligence 3.0(2016)
 
 * [28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/?utm_source=medium&utm_medium=referral&utm_term=syndication)
 
-
+* [VC 100: The Top Investors in Early-Stage Startups-Entrepreneur](https://www.entrepreneur.com/article/242702)
 
 --------------
 
