@@ -62,6 +62,8 @@ machine-intelligence 3.0(2016)
 
 * [VC 100: The Top Investors in Early-Stage Startups-Entrepreneur](https://www.entrepreneur.com/article/242702)
 
+* [The Top 100 Venture Capitalists](https://www.cbinsights.com/research/top-venture-capital-partners/)
+
 --------------
 
 
