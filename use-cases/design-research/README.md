@@ -97,6 +97,8 @@
 * [scrolling-interactions-techniques](https://uxdesign.cc/scrolling-interactions-techniques-d6dafbfa4716)
 * [feather](https://github.com/feathericons/feather)
 * [making-profit-from-a-design-system](https://medium.com/sketch-app-sources/making-profit-from-a-design-system-a78eea017104)
+* [Z-Index Explained: How to Stack Elements Using CSS](https://medium.freecodecamp.org/z-index-explained-how-to-stack-elements-using-css-7c5aa0f179b3)
+* []()
 ---------------
 
 || [atomicdesign](http://atomicdesign.bradfrost.com/) | [material-ui](https://github.com/mui-org/material-ui) | [material-design-icons](https://github.com/google/material-design-icons) |  [materialize](https://github.com/Dogfalo/materialize) |  [material-design-lite](https://github.com/google/material-design-lite) |  [ant-design](https://github.com/ant-design/ant-design) |  [bulma](https://github.com/jgthms/bulma) |  [design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) |  [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) |  [python-patterns](https://github.com/faif/python-patterns) |  [Flat-UI](https://github.com/designmodo/Flat-UI) |  [material2](https://github.com/angular/material2) |  [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) |  [muse-ui](https://github.com/museui/muse-ui) |  [go-patterns](https://github.com/tmrts/go-patterns) |  [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ||
