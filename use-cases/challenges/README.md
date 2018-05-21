@@ -15,6 +15,7 @@
 
 ----------------------
 
+
 * [the-global-impact-of-open-data](http://www.oreilly.com/data/free/files/the-global-impact-of-open-data.pdf)
 * [architecting-for-access](http://www.oreilly.com/data/free/files/architecting-for-access.pdf)
 * [Cognitive bias cheat sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18)
@@ -54,6 +55,8 @@ Machine Intelligence](http://www.oreilly.com/data/free/files/future-of-machine-i
 * [Report of Task Force on Artificial Intelligence-India](http://dipp.nic.in/whats-new/report-task-force-artificial-intelligence)
 * [State-of-Artificial-Intelligence-2018](https://www.cbinsights.com/reports/CB-Insights_State-of-Artificial-Intelligence-2018.pdf)
 * [The Ethical Implications of AI REWORK 2018](http://reworkco.domain.com/TheEthicalImplicationsofAIREWORK2018.pdf)
+* [How Google Plans To Use AI To Reinvent The $3 Trillion US Healthcare Industry](https://www.cbinsights.com/research/report/google-strategy-healthcare/?utm_source=CB+Insights+Newsletter&utm_campaign=11b0329991-Top_Research_Briefs_05_19_2018&utm_medium=email&utm_term=0_9dc0513989-11b0329991-87837585)
+
 ---------------------
 
 ![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
