@@ -56,6 +56,8 @@ machine-intelligence 3.0(2016)
 
 ![chartoftheday_13840_main_concerns_ai_customer_service_india_n](https://infographic.statista.com/normal/chartoftheday_13840_main_concerns_ai_customer_service_india_n.jpg)
 
+![key-social-2-768x519](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/05/02221408/key-social-2-768x519.png)
+
 --------------
 
 * [28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/?utm_source=medium&utm_medium=referral&utm_term=syndication)
