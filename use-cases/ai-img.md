@@ -14,3 +14,4 @@
 ![CRISPR](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/02/16182724/180215-CRISPR-Explainer-V4-880x1519.png)
 ![00e8eced](https://gallery.mailchimp.com/0c60818e26ecdbe423a10ad2f/images/00e8eced-d9d0-476d-9772-439b46f06235.png)
 ![Future](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/05/02200155/180502-Future-of-War-V4.png)
+![180226-Future-of-Fashion-V4](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/02/26155631/180226-Future-of-Fashion-V4.png)
