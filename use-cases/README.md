@@ -66,6 +66,8 @@ machine-intelligence 3.0(2016)
 
 * [Memes That Kill: The Future Of Information Warfare](https://www.cbinsights.com/research/future-of-information-warfare/?utm_source=CB+Insights+Newsletter&utm_campaign=11b0329991-Top_Research_Briefs_05_19_2018&utm_medium=email&utm_term=0_9dc0513989-11b0329991-87837585)
 
+* [Killing Strategy: The Disruption Of Management Consulting](https://www.cbinsights.com/research/disrupting-management-consulting/?utm_source=CB+Insights+Newsletter&utm_campaign=11b0329991-Top_Research_Briefs_05_19_2018&utm_medium=email&utm_term=0_9dc0513989-11b0329991-87837585)
+
 
 --------------
 
