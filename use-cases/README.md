@@ -78,6 +78,8 @@ machine-intelligence 3.0(2016)
 
 * [Case-Study-Resources](https://www.natcapsolutions.org/LASER/LASER_Case-Study-Resources.pdf)
 
+* [case-studies-yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/program-on-entrepreneurship/entrepreneurship-case-studies)
+
 --------------
 
 
