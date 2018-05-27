@@ -76,6 +76,8 @@ machine-intelligence 3.0(2016)
 
 * [Looking To Enter The AI Race? Be Prepared To Hand Out Some Hefty Equity](https://www.cbinsights.com/research/artificial-intelligence-race-equity/?utm_source=CB+Insights+Newsletter&utm_campaign=91f7a65366-TuesNL_05_22_2018&utm_medium=email&utm_term=0_9dc0513989-91f7a65366-87837585)
 
+* [Case-Study-Resources](https://www.natcapsolutions.org/LASER/LASER_Case-Study-Resources.pdf)
+
 --------------
 
 
