@@ -82,6 +82,8 @@ machine-intelligence 3.0(2016)
 
 * [timreview-issue-archive](https://timreview.ca/issue-archive)
 
+* [ibscdc](http://www.ibscdc.org/entrepreneurship.asp)
+
 --------------
 
 
