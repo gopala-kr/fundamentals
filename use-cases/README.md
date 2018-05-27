@@ -80,6 +80,8 @@ machine-intelligence 3.0(2016)
 
 * [case-studies-yale](https://som.yale.edu/faculty-research-centers/centers-initiatives/program-on-entrepreneurship/entrepreneurship-case-studies)
 
+* [timreview-issue-archive](https://timreview.ca/issue-archive)
+
 --------------
 
 
