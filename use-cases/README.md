@@ -86,6 +86,8 @@ machine-intelligence 3.0(2016)
 
 * [side-project-marketing](https://github.com/karllhughes/side-project-marketing)
 
+* [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
+
 --------------
 
 
