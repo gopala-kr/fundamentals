@@ -84,6 +84,8 @@ machine-intelligence 3.0(2016)
 
 * [ibscdc](http://www.ibscdc.org/entrepreneurship.asp)
 
+* [side-project-marketing](https://github.com/karllhughes/side-project-marketing)
+
 --------------
 
 
