@@ -88,6 +88,8 @@ machine-intelligence 3.0(2016)
 
 * [Marketing-for-Engineers](https://github.com/LisaDziuba/Marketing-for-Engineers)
 
+* [STARTUPSTASH: A curated directory of resources & tools to help you build your Startup](http://startupstash.com/)
+
 --------------
 
 
