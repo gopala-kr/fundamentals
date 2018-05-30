@@ -13,7 +13,7 @@
 
 ![ai-2018](https://fortunedotcom.files.wordpress.com/2018/01/ai.png)
 
-[eyJpIjoiTkdRME5HVXlOVFl5WlRSbCIsInQiOiJOaWxqS2l0WVRQemw5M1lqZ1lXaFdFQU9IKzVPQk12T1B1NUw0ODFOTjNFWFBFY1JFS0hRVFNjOCtWeHNGVzdVRlhlQ3JUcktqUlRqZENVZ2pXWCtWeDFkUFdaUUkxM2NqUFFcLzVhSzFTWnZEVEp0WkJFTlhEVVVkNHhGN2VqVE8ifQ](https://medium.com/work-bench/todays-ai-software-infrastructure-landscape-and-trends-shaping-the-market-460d0c1c26d2?mkt_tok=eyJpIjoiTkdRME5HVXlOVFl5WlRSbCIsInQiOiJOaWxqS2l0WVRQemw5M1lqZ1lXaFdFQU9IKzVPQk12T1B1NUw0ODFOTjNFWFBFY1JFS0hRVFNjOCtWeHNGVzdVRlhlQ3JUcktqUlRqZENVZ2pXWCtWeDFkUFdaUUkxM2NqUFFcLzVhSzFTWnZEVEp0WkJFTlhEVVVkNHhGN2VqVE8ifQ%3D%3D)
+![JMU4GROaLzvHgXQ8_moLKw](https://cdn-images-1.medium.com/max/1320/1*JMU4GROaLzvHgXQ8_moLKw.png)
 
 
 -----------
