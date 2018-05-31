@@ -14,6 +14,7 @@
 ![ai-2018](https://fortunedotcom.files.wordpress.com/2018/01/ai.png)
 
 ![JMU4GROaLzvHgXQ8_moLKw](https://cdn-images-1.medium.com/max/1320/1*JMU4GROaLzvHgXQ8_moLKw.png)
+![8HhnQF8csx6NpT5m](https://cdn-images-1.medium.com/max/1200/0*8HhnQF8csx6NpT5m.)
 
 
 -----------
