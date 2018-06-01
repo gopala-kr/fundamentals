@@ -93,6 +93,8 @@ machine-intelligence 3.0(2016)
 
 * [STARTUPSTASH: A curated directory of resources & tools to help you build your Startup](http://startupstash.com/)
 
+* [hub](https://startup.zeef.com/hub)
+
 --------------
 
 
