@@ -95,6 +95,8 @@ machine-intelligence 3.0(2016)
 
 * [hub](https://startup.zeef.com/hub)
 
+* [Behind Every Great Product ](https://svpg.com/assets/Files/productmanager.pdf)
+
 --------------
 
 
