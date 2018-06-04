@@ -57,6 +57,8 @@ Machine Intelligence](http://www.oreilly.com/data/free/files/future-of-machine-i
 * [The Ethical Implications of AI REWORK 2018](http://reworkco.domain.com/TheEthicalImplicationsofAIREWORK2018.pdf)
 * [How Google Plans To Use AI To Reinvent The $3 Trillion US Healthcare Industry](https://www.cbinsights.com/research/report/google-strategy-healthcare/?utm_source=CB+Insights+Newsletter&utm_campaign=11b0329991-Top_Research_Briefs_05_19_2018&utm_medium=email&utm_term=0_9dc0513989-11b0329991-87837585)
 * [Everyday List of Artificial Intelligence Examples In Use](https://hackernoon.com/definitive-list-of-examples-of-artificial-intelligence-in-use-e02e3328ce26)
+* [Artificial Intelligence and Its Implications
+for Income Distribution and Unemployment1](http://www.nber.org/chapters/c14018.pdf)
 
 ---------------------
 
