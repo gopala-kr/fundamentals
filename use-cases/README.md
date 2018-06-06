@@ -16,6 +16,7 @@
 
 ![JMU4GROaLzvHgXQ8_moLKw](https://cdn-images-1.medium.com/max/1320/1*JMU4GROaLzvHgXQ8_moLKw.png)
 ![8HhnQF8csx6NpT5m](https://cdn-images-1.medium.com/max/1200/0*8HhnQF8csx6NpT5m.)
+![ai-terms1](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/30152741/ai-terms1.png)
 
 
 -----------
