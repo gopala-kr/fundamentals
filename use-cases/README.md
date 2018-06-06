@@ -8,6 +8,7 @@
 
 ![gle-assistan](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/05/09154937/Google-assistant-et.png)
 ![Google](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/15130102/Google-Mentions-of-Voice-1024x595.png)
+![7IMev5xslc9FLxr9hHhpFw](https://cdn-images-1.medium.com/max/800/1*7IMev5xslc9FLxr9hHhpFw.png)
 
 -----------
 
