@@ -59,6 +59,7 @@ Machine Intelligence](http://www.oreilly.com/data/free/files/future-of-machine-i
 * [Everyday List of Artificial Intelligence Examples In Use](https://hackernoon.com/definitive-list-of-examples-of-artificial-intelligence-in-use-e02e3328ce26)
 * [Artificial Intelligence and Its Implications
 for Income Distribution and Unemployment1](http://www.nber.org/chapters/c14018.pdf)
+* [ai-privacy](https://github.com/OpenMined/awesome-ai-privacy)
 
 ---------------------
 
