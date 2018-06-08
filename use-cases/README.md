@@ -8,20 +8,16 @@
 
 ![gle-assistan](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/05/09154937/Google-assistant-et.png)
 ![Google](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/15130102/Google-Mentions-of-Voice-1024x595.png)
-![7IMev5xslc9FLxr9hHhpFw](https://cdn-images-1.medium.com/max/800/1*7IMev5xslc9FLxr9hHhpFw.png)
 
 -----------
 
 ![ai-2018](https://fortunedotcom.files.wordpress.com/2018/01/ai.png)
 
 ![JMU4GROaLzvHgXQ8_moLKw](https://cdn-images-1.medium.com/max/1320/1*JMU4GROaLzvHgXQ8_moLKw.png)
-![8HhnQF8csx6NpT5m](https://cdn-images-1.medium.com/max/1200/0*8HhnQF8csx6NpT5m.)
 ![ai-terms1](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/30152741/ai-terms1.png)
 
 
 -----------
-
-![uc](https://github.com/ci-ai/fundamentals/blob/master/use-cases/uc.PNG)
 
 ![uc_r](https://github.com/ci-ai/fundamentals/blob/master/use-cases/uc_revenue.PNG)
 
