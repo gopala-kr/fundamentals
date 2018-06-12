@@ -61,6 +61,9 @@ machine-intelligence 3.0(2016)
 
 ![images.forbes.](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Falexkonrad%2Ffiles%2F2017%2F06%2FSARP.jpg)
 
+
+![unnamed.png](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/02/unnamed.png)
+
 --------------
 
 * [28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/?utm_source=medium&utm_medium=referral&utm_term=syndication)
