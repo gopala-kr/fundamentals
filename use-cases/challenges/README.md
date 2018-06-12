@@ -61,10 +61,6 @@ Machine Intelligence](http://www.oreilly.com/data/free/files/future-of-machine-i
 for Income Distribution and Unemployment1](http://www.nber.org/chapters/c14018.pdf)
 * [ai-privacy](https://github.com/OpenMined/awesome-ai-privacy)
 
----------------------
-
-![mlhardwareoptions](https://mse238blog.stanford.edu/wp-content/uploads/2017/07/mlhardwareoptions.png)
-
 
 -------------------
 AI and Knowledge
