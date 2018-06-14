@@ -64,6 +64,8 @@ machine-intelligence 3.0(2016)
 
 ![unnamed.png](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/02/unnamed.png)
 
+![VvTVys39uVMHqtbZ](https://cdn-images-1.medium.com/max/800/0*VvTVys39uVMHqtbZ)
+
 --------------
 
 * [28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/?utm_source=medium&utm_medium=referral&utm_term=syndication)
