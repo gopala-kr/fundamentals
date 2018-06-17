@@ -55,7 +55,12 @@ Machine Intelligence](http://www.oreilly.com/data/free/files/future-of-machine-i
 * [Artificial Intelligence and Its Implications
 for Income Distribution and Unemployment1](http://www.nber.org/chapters/c14018.pdf)
 * [ai-privacy](https://github.com/OpenMined/awesome-ai-privacy)
-
+- [Advance artificial
+intelligence for growth
+Leveraging AI and robotics
+for India’s economic
+transformation
+April 2018](https://www.pwc.in/assets/pdfs/publications/2018/advance-artificial-intelligence-for-growth-leveraging-ai-and-robotics-for-india-s-economic-transformation.pdf)
 
 
 -------------
