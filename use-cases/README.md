@@ -68,6 +68,7 @@ machine-intelligence 3.0(2016)
 
 ![VvTVys39uVMHqtbZ](https://cdn-images-1.medium.com/max/800/0*VvTVys39uVMHqtbZ)
 
+![600x-1](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5naB87vKg_I/v0/600x-1.png)
 
 --------------
 
