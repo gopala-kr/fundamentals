@@ -4,6 +4,7 @@
 
 ![OC4rR9I_FAX0T5Y30nyOLw](https://cdn-images-1.medium.com/max/800/1*OC4rR9I_FAX0T5Y30nyOLw.png)
 ![wy6ySSPOCqUa0cK](https://cdn-images-1.medium.com/max/2000/1*wy6ySSPOCqUa0cK-ZLvDdA.png)
+![-Shot-2018-04-04-at-1](https://2eof2j3oc7is20vt9q3g7tlo5xe-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-04-at-12.02.00-PM.png)
 ![Big_tech_in_AI_2](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/02151809/Big_tech_in_AI_2-884x1024.png)
 ![Microsoft](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/19112631/Microsoft-Google-in-AI-1024x627.png)
 
@@ -66,6 +67,7 @@ machine-intelligence 3.0(2016)
 ![unnamed.png](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/02/unnamed.png)
 
 ![VvTVys39uVMHqtbZ](https://cdn-images-1.medium.com/max/800/0*VvTVys39uVMHqtbZ)
+
 
 --------------
 
