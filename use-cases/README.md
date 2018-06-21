@@ -101,6 +101,8 @@ machine-intelligence 3.0(2016)
 
 * [Behind Every Great Product ](https://svpg.com/assets/Files/productmanager.pdf)
 
+- [indian-ai-startups-2018](https://inc42.com/features/indian-ai-startups-2018/)
+
 --------------
 
 
