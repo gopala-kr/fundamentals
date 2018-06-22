@@ -38,14 +38,6 @@ sensors for odometry collected using a Segway robot.
 
 
 
-#### Youtube
-1. The Three Pillars of Autonomous Driving. [[watch](https://www.youtube.com/watch?v=GZa9SlMHhQc)]
-* What goes into sensing for autonomous driving? [[watch](https://www.youtube.com/watch?v=GCMXXXmxG-I)]
-* Amnon Shashua CVPR 2016 keynote: Autonomous Driving, Computer Vision and Machine Learning. [[watch](https://www.youtube.com/watch?v=n8T7A3wqH3Q)]
-* Chris Urmson: How a driverless car sees the road. [[watch](https://www.youtube.com/watch?v=tiwVMrTLUWg)]
-* Deep Reinforcement Learning for Driving Policy. [[watch](https://www.youtube.com/watch?amp;t=980s&v=QK0LxA8FWq4)]
-* NVIDIA at CES 2016 - Self Driving Cars and Deep Learning GPUs. [[watch](https://www.youtube.com/watch?v=KkpxA5rXjmA)]
-* NVIDIA Drive PX2 self-driving car platform visualized. [[watch](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
 
 
 
