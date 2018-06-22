@@ -66,39 +66,6 @@ Different media sources where we can find self-driving car related topics, ideas
 * NVIDIA at CES 2016 - Self Driving Cars and Deep Learning GPUs. [[watch](https://www.youtube.com/watch?v=KkpxA5rXjmA)]
 * NVIDIA Drive PX2 self-driving car platform visualized. [[watch](https://www.youtube.com/watch?v=URmxzxYlmtg&app=desktop)]
 
-#### Blogs
-
-* [[Medium] Self-Driving Cars](https://medium.com/self-driving-cars)
-
-----------------
-
-![chartoftheday_13450_perceived_safety_of_self_driving_cars_n](https://infographic.statista.com/normal/chartoftheday_13450_perceived_safety_of_self_driving_cars_n.jpg)
-![chartoftheday_13860_americans_expect_driverless_cars_to_be_common_in_10_years_n](https://infographic.statista.com/normal/chartoftheday_13860_americans_expect_driverless_cars_to_be_common_in_10_years_n.jpg)
-![chartoftheday_13868_registered_autonomous_vehicles_to_be_tested_in_california_n](https://infographic.statista.com/normal/chartoftheday_13868_registered_autonomous_vehicles_to_be_tested_in_california_n.jpg)
-![chartoftheday_10879_autonomous_driving_patents_n](https://infographic.statista.com/normal/chartoftheday_10879_autonomous_driving_patents_n.jpg)
-![Baidu-apollo-global-partners](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/26134449/Baidu-apollo-global-partners_2018-04_1-1024x768.png)
- ![autonomous_cars_how_would_you_spend_your_time](https://infographic.statista.com/normal/chartoftheday_13463_autonomous_cars_how_would_you_spend_your_time_n.jpg)
-
-![perceived_safety_of_self_driving_cars](https://infographic.statista.com/normal/chartoftheday_13450_perceived_safety_of_self_driving_cars_n.jpg)
 
 
 
-![is_in_car_advertising_the_future](https://infographic.statista.com/normal/chartoftheday_13399_is_in_car_advertising_the_future_n.jpg)
-
-
-
-![how_old_are_your_favorite_tech_companies](https://infographic.statista.com/normal/chartoftheday_12991_how_old_are_your_favorite_tech_companies_n.jpg)
-
-
-![diverse_ways_of_making_money_in_tech](https://infographic.statista.com/normal/chartoftheday_13193_the_diverse_ways_of_making_money_in_tech_n.jpg)
-
-
-![chartoftheday_11690_the_top_reasons_startups_fail](https://infographic.statista.com/normal/chartoftheday_11690_the_top_reasons_startups_fail_n.jpg)
-
-
-![Txv7gopw94JSxMDF15cfC8SUchSf13d4](https://assets.weforum.org/editor/d_V93AY1R0-Txv7gopw94JSxMDF15cfC8SUchSf13d4.png)
-
-
-![the-unicorn-universities](https://infographic.statista.com/normal/chartoftheday_9205_the_unicorn_universities_n.jpg)
-
--------------------------------
