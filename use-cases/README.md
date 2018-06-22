@@ -19,6 +19,8 @@
 ![ai-terms1](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/30152741/ai-terms1.png)
 
 
+![smart111](https://www.bernardmarr.com/img/smart111.png)
+
 -----------
 
 ![uc_r](https://github.com/ci-ai/fundamentals/blob/master/use-cases/uc_revenue.PNG)
@@ -72,7 +74,6 @@ machine-intelligence 3.0(2016)
 
 ![Q5_importance_of_alternative_ai_and_machine_learning_solutions](https://thefinancialbrand.com/wp-content/uploads/2018/04/Q5_importance_of_alternative_ai_and_machine_learning_solutions-565x542.png)
 
-![smart111](https://www.bernardmarr.com/img/smart111.png)
 
 --------------
 
