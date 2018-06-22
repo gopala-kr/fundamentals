@@ -72,6 +72,8 @@ machine-intelligence 3.0(2016)
 
 ![Q5_importance_of_alternative_ai_and_machine_learning_solutions](https://thefinancialbrand.com/wp-content/uploads/2018/04/Q5_importance_of_alternative_ai_and_machine_learning_solutions-565x542.png)
 
+![smart111](https://www.bernardmarr.com/img/smart111.png)
+
 --------------
 
 * [28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/?utm_source=medium&utm_medium=referral&utm_term=syndication)
