@@ -111,6 +111,8 @@ machine-intelligence 3.0(2016)
 
 - [indian-ai-startups-2018](https://inc42.com/features/indian-ai-startups-2018/)
 
+- [Venture-Hacks-Bible](http://venturehacks.wpengine.com/wp-content/uploads/2010/11/Venture-Hacks-Bible1.pdf?ref=producthunt)
+
 --------------
 
 
