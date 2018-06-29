@@ -74,6 +74,8 @@ machine-intelligence 3.0(2016)
 
 ![Q5_importance_of_alternative_ai_and_machine_learning_solutions](https://thefinancialbrand.com/wp-content/uploads/2018/04/Q5_importance_of_alternative_ai_and_machine_learning_solutions-565x542.png)
 
+![Rambus-AI-memory-systems](https://semiengineering.com/wp-content/uploads/2018/03/Rambus-AI-memory-systems-fig1.jpg)
+![Rambus-AI-memory-system](https://semiengineering.com/wp-content/uploads/2018/03/Rambus-AI-memory-systems-fig5.png)
 
 --------------
 
