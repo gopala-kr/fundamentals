@@ -1,5 +1,6 @@
 
 
+![1DZImJIxInPbkqpCQpsQcA](https://cdn-images-1.medium.com/max/1600/1*1DZImJIxInPbkqpCQpsQcA.png)
 ![0bf32d3dc6feb3f87b2050c76229a662](https://i.pinimg.com/originals/0b/f3/2d/0bf32d3dc6feb3f87b2050c76229a662.png)
 ![chartoftheday_682_share_of_media_time_vs_share_of_total_ad_spend_n](https://infographic.statista.com/normal/chartoftheday_682_share_of_media_time_vs_share_of_total_ad_spend_n.jpg)
 ![face_recognitio](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/20145357/face_recognition_patents_China-1024x635.png)
