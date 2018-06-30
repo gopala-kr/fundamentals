@@ -117,6 +117,8 @@ machine-intelligence 3.0(2016)
 
 - [The List of 300+ Growth Hacking Links with Tips](https://blog.standuply.com/the-ultimate-list-of-300-top-growth-hacking-tips-and-tricks-b12f7edc2318)
 
+- [Paul Graham: Essays](http://www.paulgraham.com/articles.html)
+
 --------------
 
 
