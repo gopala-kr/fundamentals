@@ -119,6 +119,8 @@ machine-intelligence 3.0(2016)
 
 - [Paul Graham: Essays](http://www.paulgraham.com/articles.html)
 
+- [One Page Investor Summary](https://seedproof.com/investors/?ref=sideLeft)
+
 --------------
 
 
