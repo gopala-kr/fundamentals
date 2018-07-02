@@ -121,6 +121,8 @@ machine-intelligence 3.0(2016)
 
 - [One Page Investor Summary](https://seedproof.com/investors/?ref=sideLeft)
 
+- [The-Growth-Handbook](https://marketing.intercomcdn.com/assets/the-growth-handbook/v1/The-Growth-Handbook-by-Intercom.pdf)
+
 --------------
 
 
