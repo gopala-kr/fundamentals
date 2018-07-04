@@ -11,6 +11,10 @@
 ![gle-assistan](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/05/09154937/Google-assistant-et.png)
 ![Google](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/15130102/Google-Mentions-of-Voice-1024x595.png)
 
+-------
+
+![edgsuiFenFBb2OV7fwetyA](https://cdn-images-1.medium.com/max/880/1*edgsuiFenFBb2OV7fwetyA.jpeg)
+
 -----------
 
 ![ai-2018](https://fortunedotcom.files.wordpress.com/2018/01/ai.png)
