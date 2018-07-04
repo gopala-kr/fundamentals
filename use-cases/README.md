@@ -80,6 +80,8 @@ machine-intelligence 3.0(2016)
 
 ![Rambus-AI-memory-systems](https://semiengineering.com/wp-content/uploads/2018/03/Rambus-AI-memory-systems-fig1.jpg)
 ![Rambus-AI-memory-system](https://semiengineering.com/wp-content/uploads/2018/03/Rambus-AI-memory-systems-fig5.png)
+![2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3PofMDae7f0uVofKigclAw3fvKgRjmyD5PvLY65f4pw2cW0I424ZxUBbFImi24](https://media.licdn.com/media-proxy/ext?w=800&h=800&f=n&hash=hL7bdPfPX1ZM6AjWylXdVTDf7QM%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta9Er0Vinkhwfjw8177yE41y87UNCVordEGXyD3u0qYrdf3PofMDae7f0uVofKigclAw3fvKgRjmyD5PvLY65f4pw2cW0I424ZxUBbFImi24)
+
 
 --------------
 
