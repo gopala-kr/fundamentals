@@ -136,7 +136,7 @@ machine-intelligence 3.0(2016)
 
 --------------
 
-
+![perioidicblogsvc31](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2015/02/perioidicblogsvc31.jpg)
 
 -----------
 
