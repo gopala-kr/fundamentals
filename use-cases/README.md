@@ -146,4 +146,9 @@ machine-intelligence 3.0(2016)
 
 ![6g8EUR8brFg](https://cdn-images-1.medium.com/max/1600/1*XcAr_11YwJ-6g8EUR8brFg.png)
 
+-----------
+
+![1ehl4Bb3KIsANTzdjX1kzQ](https://cdn-images-1.medium.com/max/2000/1*1ehl4Bb3KIsANTzdjX1kzQ.jpeg)
+
+
 --------
