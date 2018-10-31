@@ -29,6 +29,7 @@
 
 -------------
 
+- [Everything you need to know about skeleton screens](https://uxdesign.cc/what-you-should-know-about-skeleton-screens-a820c45a571a)
 * [design-blocks](https://github.com/froala/design-blocks)
 * [awesome-design](https://github.com/gztchan/awesome-design)
 * [ant-design-pro](https://github.com/ant-design/ant-design-pro)
