@@ -207,3 +207,5 @@ machine-intelligence 3.0(2016)
 --------
 ![5bfd84e446e0fb0051581631](https://www.investopedia.com/thmb/wmaG5uoXFtgr6vNOu3m1guJsvS8=/956x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/share_of_global_economy-5bfd84e446e0fb0051581631)
 -----
+![Population_curve](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Population_curve.svg/1280px-Population_curve.svg.png)
+---------
