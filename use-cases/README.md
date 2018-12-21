@@ -301,8 +301,7 @@ machine-intelligence 3.0(2016)
 -----------
 ![timeline8_sm](http://www.bigpicturesmallworld.com/funstuff/images/timeline8_sm.gif)
 -----------
-![ScienceExplorationTechnology](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg/900px-NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg)
------------
+
 
 
 ![human-evolution](https://timeguide.files.wordpress.com/2014/06/human-evolution-2.jpg)
@@ -321,11 +320,12 @@ machine-intelligence 3.0(2016)
 ![Leonhard](https://www.futuristgerd.com/wp-content/uploads/2015/10/Future-of-Humanity-in-world-of-exponential-technologies-OpenInnovation-Moscow-Gerd-Leonhard-PUBLIC.015-1.png)
 
 -----------
-![21C-800-dpi-History-Timeline-Civil-War-toWW1-To-WW2-to-2016](http://www.christopherbelknap.com/wp-content/uploads/2015/02/21C-800-dpi-History-Timeline-Civil-War-toWW1-To-WW2-to-2016.jpg)
+![21C-800-dpi-History-](http://www.christopherbelknap.com/wp-content/uploads/2015/02/21C-800-dpi-History-Timeline-Civil-War-toWW1-To-WW2-to-2016.jpg)
 -----------
-![PHASE-1-B2-AMERICAN-SMART-CITIES-CLEAN-ENERGY-DEVELOPMENT-STRATEGY-Panel-5](https://designearthsynergy.com/wp-content/uploads/2015/02/PHASE-1-B2-AMERICAN-SMART-CITIES-CLEAN-ENERGY-DEVELOPMENT-STRATEGY-Panel-5.jpg)
+![PHASE-1-B2-AMERICAN-SMART-](https://designearthsynergy.com/wp-content/uploads/2015/02/PHASE-1-B2-AMERICAN-SMART-CITIES-CLEAN-ENERGY-DEVELOPMENT-STRATEGY-Panel-5.jpg)
 ---------
-![2-History-Timeline-of-the-National-Debt-Civil-War-toWW1](https://designearthsynergy.com/wp-content/uploads/2015/02/2-History-Timeline-of-the-National-Debt-Civil-War-toWW1-To-WW2-to-2016-1.jpg)
+
+![2-History-Timeline-of-](https://designearthsynergy.com/wp-content/uploads/2015/02/2-History-Timeline-of-the-National-Debt-Civil-War-toWW1-To-WW2-to-2016-1.jpg)
 ---------
 ![24A-National-Debt-Panel-Expanded-8-1](https://designearthsynergy.com/wp-content/uploads/2015/02/24A-National-Debt-Panel-Expanded-8-1.jpg)
 ---------
@@ -425,9 +425,9 @@ machine-intelligence 3.0(2016)
 ---------
 ![Asteroid](https://www.forevergeek.com/wp-content/media/2012/05/Asteroid-Mining.png)
 -----------
-![1513184630_Private_Space_Economy_Breakdown_](https://fm.cnbc.com/applications/cnbc.com/resources/editorialfiles/charts/2017/12/1513184630_Private_Space_Economy_Breakdown_-_MS.png)
-------------
 ![20181020_gdr567](https://www.economist.com/sites/default/files/images/2018/10/articles/main/20181020_gdr567.png)
 -----------
 ![9c8e992d421e](https://ei.marketwatch.com/Multimedia/2017/12/13/Photos/NS/MW-GA135_morgan_20171213125101_NS.png?uuid=2eaef440-e02e-11e7-8670-9c8e992d421e)
+-----------
+![ScienceExplorationTechnology](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg/900px-NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg)
 -----------
