@@ -439,7 +439,8 @@ machine-intelligence 3.0(2016)
 ![V0iGHsxd2FNAIThVdngUxg](https://cdn-images-1.medium.com/max/1200/1*V0iGHsxd2FNAIThVdngUxg.png)
 
 ------------
-![ScienceExplorationTechnology](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg/900px-NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg)
------------
+
 ![ZGiVFDL5Kq3NtpR13oEAeQ](https://cdn-images-1.medium.com/max/1200/1*ZGiVFDL5Kq3NtpR13oEAeQ.jpeg)
 -------------
+![ScienceExplorationTechnology](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg/900px-NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg)
+-----------
