@@ -244,12 +244,11 @@ machine-intelligence 3.0(2016)
 -------
 ![m4j64ph](http://i.imgur.com/m4j64ph.png)
 -------
-![Cosmic_Calendar](https://upload.wikimedia.org/wikipedia/commons/9/99/Cosmic_Calendar.png)
+![Cosmic_Calendar](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cosmic_Calendar.png/550px-Cosmic_Calendar.png)
 -----------
 
 
-![ZGiVFDL5Kq3NtpR13oEAeQ](https://cdn-images-1.medium.com/max/1200/1*ZGiVFDL5Kq3NtpR13oEAeQ.jpeg)
--------------
+
 ![map_img_833596_1487184426](https://wh1k8zidop.inscname.net/games/images/map_img_833596_1487184426.jpg)
 ---------
 
@@ -442,3 +441,5 @@ machine-intelligence 3.0(2016)
 ------------
 ![ScienceExplorationTechnology](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg/900px-NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg)
 -----------
+![ZGiVFDL5Kq3NtpR13oEAeQ](https://cdn-images-1.medium.com/max/1200/1*ZGiVFDL5Kq3NtpR13oEAeQ.jpeg)
+-------------
