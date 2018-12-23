@@ -280,6 +280,9 @@ machine-intelligence 3.0(2016)
 ![300yearsofpopulation](http://i0.wp.com/metrocosm.com/wp-content/uploads/2015/10/300yearsofpopulation.png)
 -------
 ![dca3d8696bace1739a4dc9a75bd1042d](https://userscontent2.emaze.com/images/2b5d844a-d3c5-43d2-ad04-a68536d307b2/dca3d8696bace1739a4dc9a75bd1042d.jpg)
+---------
+
+![db5109f1d64dc2c6be596d79fb5b0c5d](https://i.pinimg.com/736x/db/51/09/db5109f1d64dc2c6be596d79fb5b0c5d--timeline-separate.jpg)
 -------
 ![101_Tech_Tree_EE_v2](http://gamestudies.org/articleimages/101_Tech_Tree_EE_v2.0.jpg?m)
 -----------
