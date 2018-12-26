@@ -88,6 +88,11 @@ machine-intelligence 3.0(2016)
 
 ![cQyQSqfYTf8_2ops9yRhVQ](https://cdn-images-1.medium.com/max/1000/1*cQyQSqfYTf8_2ops9yRhVQ.png)
 
+-----------
+
+![ij5Hgwc5g57xEzFTX0FhJA](https://cdn-images-1.medium.com/max/2000/1*ij5Hgwc5g57xEzFTX0FhJA.png)
+--------------
+![6XHG5mQtlqdDsr3aYk3JQw](https://cdn-images-1.medium.com/max/1000/1*6XHG5mQtlqdDsr3aYk3JQw.png)
 --------------
 
 * [28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/?utm_source=medium&utm_medium=referral&utm_term=syndication)
