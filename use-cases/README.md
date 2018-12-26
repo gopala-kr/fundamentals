@@ -453,6 +453,6 @@ machine-intelligence 3.0(2016)
 -----------
 2193
 
-![2200](https://orig00.deviantart.net/6f6b/f/2016/040/7/5/mmx_u49___world_map_2193__night_skin__by_saturnthereploid-d9r42sg.gif)
+<img src="https://orig00.deviantart.net/6f6b/f/2016/040/7/5/mmx_u49___world_map_2193__night_skin__by_saturnthereploid-d9r42sg.gif" width="100" height="70" />
 
 ---------
