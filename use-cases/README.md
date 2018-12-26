@@ -346,6 +346,11 @@ machine-intelligence 3.0(2016)
 ![27c-National-Debt-Panel-Expanded-8](https://designearthsynergy.com/wp-content/uploads/2015/02/27c-National-Debt-Panel-Expanded-8.jpg)
 ---------
 ![2012-V4B2-History-of-Community-Vision-Initiatives-Hawaii-1986-96-DES](http://www.christopherbelknap.com/wp-content/uploads/2015/02/2012-V4B2-History-of-Community-Vision-Initiatives-Hawaii-1986-96-DES.jpg)
+
+----------
+![gallup](https://i2.wp.com/www.whaleoil.co.nz/wp-content/uploads/2018/07/gallup.jpg?resize=630%2C787&ssl=1)
+--------
+![issues ](http://www.roymorgan.com/~/media/files/morgan%20poll/2015/november/6543-world-issues-large.jpg?la=en)
 ---------
 ![US_military_personnel_and_expenditures](https://upload.wikimedia.org/wikipedia/en/f/f4/US_military_personnel_and_expenditures.png)
 ---------
@@ -456,3 +461,7 @@ machine-intelligence 3.0(2016)
 ![2193](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/2193.gif)
 
 ---------
+
+[You have 80,000 hours: world’s most pressing problems](https://80000hours.org/)
+
+--------
