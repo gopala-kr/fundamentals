@@ -467,6 +467,6 @@ machine-intelligence 3.0(2016)
 
 ---------
 
-[You have 80,000 hours: world’s most pressing problems](https://80000hours.org/)
+[You have only 80,000 hours](https://80000hours.org/)
 
 --------
