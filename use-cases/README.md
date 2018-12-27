@@ -431,13 +431,6 @@ machine-intelligence 3.0(2016)
 
 ---------
 
-![V0iGHsxd2FNAIThVdngUxg](https://cdn-images-1.medium.com/max/1200/1*V0iGHsxd2FNAIThVdngUxg.png)
-
-------------
-
-![ZGiVFDL5Kq3NtpR13oEAeQ](https://cdn-images-1.medium.com/max/1200/1*ZGiVFDL5Kq3NtpR13oEAeQ.jpeg)
-
----------
 
 ![Snimok3](https://noosphereventures.com/wp-content/uploads/2018/09/Snimok3.png)
 -------------
