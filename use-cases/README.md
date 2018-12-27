@@ -93,6 +93,15 @@ machine-intelligence 3.0(2016)
 ![ij5Hgwc5g57xEzFTX0FhJA](https://cdn-images-1.medium.com/max/2000/1*ij5Hgwc5g57xEzFTX0FhJA.png)
 --------------
 ![6XHG5mQtlqdDsr3aYk3JQw](https://cdn-images-1.medium.com/max/1000/1*6XHG5mQtlqdDsr3aYk3JQw.png)
+
+------------
+![24-startup-that-vcs-are-begging-to-fund-business-insider-728x835](https://openhourz.com/wp-content/uploads/2018/10/24-startup-that-vcs-are-begging-to-fund-business-insider-728x835.jpg)
+
+------------
+![muskdisruption](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/01/18180059/muskdisruption.png)
+
+------------
+
 --------------
 
 * [28 Of The Best VC Bets Of All Time And What We Can Learn From Them](https://www.cbinsights.com/research/best-venture-capital-investments/?utm_source=medium&utm_medium=referral&utm_term=syndication)
@@ -458,9 +467,49 @@ machine-intelligence 3.0(2016)
 ------------
 
 ![ZGiVFDL5Kq3NtpR13oEAeQ](https://cdn-images-1.medium.com/max/1200/1*ZGiVFDL5Kq3NtpR13oEAeQ.jpeg)
+
+---------
+
+![Snimok3](https://noosphereventures.com/wp-content/uploads/2018/09/Snimok3.png)
 -------------
+
+![Global-Space-Economy-Revenue-2040](https://1.bp.blogspot.com/-Un6gRbEgKeY/WgnkfoOSjYI/AAAAAAAAPDc/2vix3nOqKFA1ZkBFiTbWDa8KFoCTUVdHwCLcBGAs/s1600/Global-Space-Economy-Revenue-2040.png)
+
+------------
+![9k6g672vkjty](https://i.redd.it/9k6g672vkjty.png)
+
+------------
+
+![20180210_FBC925](https://cdn.static-economist.com/sites/default/files/images/print-edition/20180210_FBC925.png)
+
+------------
+
+![1509467229_bofaml_space_nutshell](https://noosphereventures.com/wp-content/uploads/2018/09/1509467229_bofaml_space_nutshell.png)
+
+------------
+![Snimok45](https://noosphereventures.com/wp-content/uploads/2018/09/Snimok45.png)
+
+------------
+![Cumulative-FF-missions-launches-grouped-according-to-the-leading-organizations](https://www.researchgate.net/profile/Giuseppe_Di_Mauro/publication/321539579/figure/fig1/AS:592240216932352@1518212479470/Cumulative-FF-missions-launches-grouped-according-to-the-leading-organizations.png)
+
+------------
+![4-2](https://docplayer.net/docs-images/83/88643307/images/4-2.jpg)
+
+------------
+
+![space_budgets](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/space_budgets.PNG)
+
+------------
+![cn](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/cn.PNG)
+
+------------
+![tl_1](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/tl_1.PNG)
+
+------------
 ![ScienceExplorationTechnology](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg/900px-NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg)
+
 -----------
+
 2193
 
 ![2193](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/2193.gif)
