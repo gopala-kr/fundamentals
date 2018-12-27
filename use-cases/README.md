@@ -431,37 +431,6 @@ machine-intelligence 3.0(2016)
 
 ---------
 
-![Dkn_oDoXgAA6T5U](https://pbs.twimg.com/media/Dkn_oDoXgAA6T5U.jpg)
-
-----------
-![5a4915778165f54918c3d258](https://static1.squarespace.com/static/5a47e8ce9f8dce429faabc32/t/5a4915778165f54918c3d258/1514739079174/HistoricalTimelines-inverted.png)
------------
-![2B2050s_](https://4.bp.blogspot.com/-4QxP7dYui0s/V_o2X1xJi3I/AAAAAAAABxA/sXm5XRA6kWMvNYZlsLjanpK29id4BkrrQCLcB/s1600/Mars%2BColonization%2BTimeline%2B-%2B2050s_.jpg)
------------
-![140424_jpl](https://motionmapping.com/wp-content/uploads/2014/04/140424_jpl.png)
---------
-![chart-of-cosmic-exploration-pop-lab-design-data-delight-the-p3-space-zoom-png](http://iwan-ae.info/wp-content/uploads/2018/09/chart-of-cosmic-exploration-pop-lab-design-data-delight-the-p3-space-zoom-png.jpg)
--------
-![Future-of-Exploration](http://www.spaceopedia.com/wp-content/uploads/2017/07/Future-of-Exploration.jpg)
-
---------
-
-![2.-SSIR-2018-report-640x360](https://d1sjfc1jc23kt3.cloudfront.net/wp-content/uploads/2018/10/2.-SSIR-2018-report-640x360.jpg)
--------
-![ourworldindata_futureevents_giorgialupi_large1](https://ourworldindata.org/wp-content/uploads/2014/11/ourworldindata_futureevents_giorgialupi_large1.jpg)
------------
-![CBF_OxwWcAAnugv](https://pbs.twimg.com/media/CBF_OxwWcAAnugv.jpg)
----------
-![space-access](http://www.homospaciens.org/img/portfolio/space-access.jpg)
----------
-![Asteroid](https://www.forevergeek.com/wp-content/media/2012/05/Asteroid-Mining.png)
------------
-![20181020_gdr567](https://www.economist.com/sites/default/files/images/2018/10/articles/main/20181020_gdr567.png)
------------
-![9c8e992d421e](https://ei.marketwatch.com/Multimedia/2017/12/13/Photos/NS/MW-GA135_morgan_20171213125101_NS.png?uuid=2eaef440-e02e-11e7-8670-9c8e992d421e)
-
----------
-
 ![V0iGHsxd2FNAIThVdngUxg](https://cdn-images-1.medium.com/max/1200/1*V0iGHsxd2FNAIThVdngUxg.png)
 
 ------------
@@ -495,6 +464,40 @@ machine-intelligence 3.0(2016)
 ------------
 ![4-2](https://docplayer.net/docs-images/83/88643307/images/4-2.jpg)
 
+-----------
+
+![Dkn_oDoXgAA6T5U](https://pbs.twimg.com/media/Dkn_oDoXgAA6T5U.jpg)
+
+----------
+![5a4915778165f54918c3d258](https://static1.squarespace.com/static/5a47e8ce9f8dce429faabc32/t/5a4915778165f54918c3d258/1514739079174/HistoricalTimelines-inverted.png)
+-----------
+![2B2050s_](https://4.bp.blogspot.com/-4QxP7dYui0s/V_o2X1xJi3I/AAAAAAAABxA/sXm5XRA6kWMvNYZlsLjanpK29id4BkrrQCLcB/s1600/Mars%2BColonization%2BTimeline%2B-%2B2050s_.jpg)
+-----------
+![140424_jpl](https://motionmapping.com/wp-content/uploads/2014/04/140424_jpl.png)
+--------
+![chart-of-cosmic-exploration-pop-lab-design-data-delight-the-p3-space-zoom-png](http://iwan-ae.info/wp-content/uploads/2018/09/chart-of-cosmic-exploration-pop-lab-design-data-delight-the-p3-space-zoom-png.jpg)
+-------
+![Future-of-Exploration](http://www.spaceopedia.com/wp-content/uploads/2017/07/Future-of-Exploration.jpg)
+
+--------
+
+![2.-SSIR-2018-report-640x360](https://d1sjfc1jc23kt3.cloudfront.net/wp-content/uploads/2018/10/2.-SSIR-2018-report-640x360.jpg)
+-------
+![ourworldindata_futureevents_giorgialupi_large1](https://ourworldindata.org/wp-content/uploads/2014/11/ourworldindata_futureevents_giorgialupi_large1.jpg)
+-----------
+![CBF_OxwWcAAnugv](https://pbs.twimg.com/media/CBF_OxwWcAAnugv.jpg)
+---------
+![space-access](http://www.homospaciens.org/img/portfolio/space-access.jpg)
+---------
+![Asteroid](https://www.forevergeek.com/wp-content/media/2012/05/Asteroid-Mining.png)
+-----------
+![20181020_gdr567](https://www.economist.com/sites/default/files/images/2018/10/articles/main/20181020_gdr567.png)
+-----------
+![9c8e992d421e](https://ei.marketwatch.com/Multimedia/2017/12/13/Photos/NS/MW-GA135_morgan_20171213125101_NS.png?uuid=2eaef440-e02e-11e7-8670-9c8e992d421e)
+
+---------
+![tl_1](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/tl_1.PNG)
+
 ------------
 
 ![space_budgets](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/space_budgets.PNG)
@@ -503,9 +506,7 @@ machine-intelligence 3.0(2016)
 ![cn](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/cn.PNG)
 
 ------------
-![tl_1](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/tl_1.PNG)
 
-------------
 ![ScienceExplorationTechnology](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg/900px-NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg)
 
 -----------
