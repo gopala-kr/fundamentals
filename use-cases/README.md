@@ -508,15 +508,17 @@ machine-intelligence 3.0(2016)
 
 ------------
 
-![ScienceExplorationTechnology](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg/900px-NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg)
 
------------
 
 2193
 
 ![2193](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/2193.gif)
 
 ---------
+
+![ScienceExplorationTechnology](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg/900px-NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg)
+
+-----------
 
 [You have only 80,000 hours](https://80000hours.org/)
 
