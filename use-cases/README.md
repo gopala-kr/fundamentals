@@ -344,7 +344,11 @@ machine-intelligence 3.0(2016)
 ![Tech-Timeline_Snap](http://www.driversofchange.com/wp-content/uploads/2017/07/Tech-Timeline_Snap.jpg)
 -----------
 ![Leonhard](https://www.futuristgerd.com/wp-content/uploads/2015/10/Future-of-Humanity-in-world-of-exponential-technologies-OpenInnovation-Moscow-Gerd-Leonhard-PUBLIC.015-1.png)
+---------
+![nuclear_timeline](https://whatisnuclear.com/img/nuclear_timeline.png)
+-------
 
+![What_is_Nanotechnology/Nanotechnology-Timeline](https://nanotechnology.americanchemistry.com/uploadedImages/Nanotechnology/Site_Content/Nanotechnology_Content/What_is_Nanotechnology/Nanotechnology-Timeline.jpg)
 -----------
 ![21C-800-dpi-History-](http://www.christopherbelknap.com/wp-content/uploads/2015/02/21C-800-dpi-History-Timeline-Civil-War-toWW1-To-WW2-to-2016.jpg)
 -----------
