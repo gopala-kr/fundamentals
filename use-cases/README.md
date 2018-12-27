@@ -496,6 +496,14 @@ machine-intelligence 3.0(2016)
 ![9c8e992d421e](https://ei.marketwatch.com/Multimedia/2017/12/13/Photos/NS/MW-GA135_morgan_20171213125101_NS.png?uuid=2eaef440-e02e-11e7-8670-9c8e992d421e)
 
 ---------
+![V0iGHsxd2FNAIThVdngUxg](https://cdn-images-1.medium.com/max/1200/1*V0iGHsxd2FNAIThVdngUxg.png)
+
+------------
+
+![ZGiVFDL5Kq3NtpR13oEAeQ](https://cdn-images-1.medium.com/max/1200/1*ZGiVFDL5Kq3NtpR13oEAeQ.jpeg)
+
+
+---------
 ![tl_1](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/tl_1.PNG)
 
 ------------
