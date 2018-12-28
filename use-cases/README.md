@@ -502,8 +502,19 @@ machine-intelligence 3.0(2016)
 
 ---------
 ![tl_1](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/tl_1.PNG)
+---------
 
+![tl_2](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/tl_2.PNG)
+
+--------
+
+![tl_3](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/tl_3.PNG)
 ------------
+![tl_4](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/tl_4.PNG)
+------------
+![tl_5](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/tl_5.PNG)
+------------
+
 
 ![space_budgets](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/space_budgets.PNG)
 
