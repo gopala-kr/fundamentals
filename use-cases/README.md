@@ -334,7 +334,7 @@ machine-intelligence 3.0(2016)
 -----------
 --------------
 --------------
-![All.things.150](https://www.frc.ri.cmu.edu/~hpm/book97/ch3/All.things.150.jpg)
+![All](https://www.frc.ri.cmu.edu/~hpm/book97/ch3/All.things.150.jpg)
 --------------
 ![HBP%201](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/HBP%201.jpg)
 -----------
@@ -430,9 +430,9 @@ machine-intelligence 3.0(2016)
 ---------
 ![50-years-of-exploration](http://www.5wgraphics.com/img/newsletter/50-years-of-exploration.jpg)
 ----------
-![Time travel](http://s3.media.squarespace.com/production/465215/5432662/wp-content/uploads/2009/08/3d863a08d8ab4651_94cbbc9affc3af24_o.jpg)
----------
 ![History of space travel](https://i.redd.it/w3z5rpxjmauy.jpg)
+---------
+![Time travel](http://s3.media.squarespace.com/production/465215/5432662/wp-content/uploads/2009/08/3d863a08d8ab4651_94cbbc9affc3af24_o.jpg)
 ----------
 ![140424_jpl](https://motionmapping.com/wp-content/uploads/2014/04/140424_jpl.png)
 --------
