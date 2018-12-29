@@ -330,7 +330,10 @@ machine-intelligence 3.0(2016)
 ![DNA Seq](https://i.pinimg.com/originals/f9/ee/ab/f9eeab9a91c85cd88cdc2ef6f7b34d9d.jpg)
 --------------------
 ![dna-timeline-worksheet-504-best-work-genetics-images-on-pinterest-of-dna-timeline-worksheet](http://www.wp-landingpages.com/wp-content/uploads/2018/06/dna-timeline-worksheet-504-best-work-genetics-images-on-pinterest-of-dna-timeline-worksheet.jpg)
-
+------
+![Timeline+of+CRISPR-Cas+and+genome+engineering+research+fields](http://slideplayer.com/slide/9189705/27/images/1/Fig.+1+Timeline+of+CRISPR-Cas+and+genome+engineering+research+fields.jpg)
+--------
+![1-s2.0-S1673852713002130-gr1](https://ars.els-cdn.com/content/image/1-s2.0-S1673852713002130-gr1.jpg)
 -----------
 --------------
 --------------
@@ -340,6 +343,8 @@ machine-intelligence 3.0(2016)
 -----------
 ![growth](https://i2.wp.com/timdettmers.com/wp-content/uploads/2015/07/growth.jpg)
 -----------
+![distorted-view-of-intelligence-1](https://sectionfiftytwo.files.wordpress.com/2015/02/distorted-view-of-intelligence-1.png)
+-------
 ![Intelligence2](http://28oa9i1t08037ue3m1l0i861.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/Intelligence2.png)
 --------------
 ![27s_Law_over_120_Years](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Moore%27s_Law_over_120_Years.png/1280px-Moore%27s_Law_over_120_Years.png)
@@ -353,7 +358,22 @@ machine-intelligence 3.0(2016)
 ![human-evolution](https://timeguide.files.wordpress.com/2014/06/human-evolution-2.jpg)
 ---------
 ![Leonhard](https://www.futuristgerd.com/wp-content/uploads/2015/10/Future-of-Humanity-in-world-of-exponential-technologies-OpenInnovation-Moscow-Gerd-Leonhard-PUBLIC.015-1.png)
-
+-----------
+![timelineofairesults](http://aiimpacts.org/wp-content/uploads/2017/06/timelineofairesults.jpeg)
+-------
+![future-timeline-technology-singularity](https://www.futuretimeline.net/blog/images/811-future-timeline-technology-singularity.jpg)
+---------
+![d0eee5b507d99968bca3bfa00f2eef5a](https://i.pinimg.com/736x/d0/ee/e5/d0eee5b507d99968bca3bfa00f2eef5a.jpg)
+----------
+![image](https://whymandesign.files.wordpress.com/2015/11/image.jpg)
+--------
+![future-unemployment-trends-2025-2050-timeline](https://www.futuretimeline.net/21stcentury/images/future-unemployment-trends-2025-2050-timeline.jpg)
+---------
+![british-newspapers-circulation-future-trend-graph-2020-2025-2030](https://www.futuretimeline.net/21stcentury/images/british-newspapers-circulation-future-trend-graph-2020-2025-2030.gif)
+---------
+![DNA_storage_graphic_WEB_2](https://www.nature.com/polopoly_fs/7.38671.1472212698!/image/DNA_storage_graphic_WEB_2.jpg_gen/derivatives/landscape_630/DNA_storage_graphic_WEB_2.jpg)
+------------
+[217413636.cde2cb5f07430159d50a3c91e72c280a.1544486400186.1544486400187.1544486400188.1&__hssc=217413636.1.1544486400189&__hsfp=998628806](https://go.cablelabs.com/hubfs/Blog/Emerging%20Technologies%20Building%20Blocks%20&%20Catalysts%20.png?__hstc=217413636.cde2cb5f07430159d50a3c91e72c280a.1544486400186.1544486400187.1544486400188.1&__hssc=217413636.1.1544486400189&__hsfp=998628806)
 
 -----------
 -----------
