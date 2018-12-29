@@ -334,7 +334,7 @@ machine-intelligence 3.0(2016)
 -----------
 --------------
 --------------
-![All](https://www.frc.ri.cmu.edu/~hpm/book97/ch3/All.things.150.jpg)
+![All](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/All.things.150.jpg)
 --------------
 ![HBP%201](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/HBP%201.jpg)
 -----------
