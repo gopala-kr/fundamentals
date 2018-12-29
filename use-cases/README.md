@@ -334,6 +334,9 @@ machine-intelligence 3.0(2016)
 ![Timeline+of+CRISPR-Cas+and+genome+engineering+research+fields](http://slideplayer.com/slide/9189705/27/images/1/Fig.+1+Timeline+of+CRISPR-Cas+and+genome+engineering+research+fields.jpg)
 --------
 ![1-s2.0-S1673852713002130-gr1](https://ars.els-cdn.com/content/image/1-s2.0-S1673852713002130-gr1.jpg)
+---------
+![S2212683X16300561](https://ars.els-cdn.com/content/image/1-s2.0-S2212683X16300561-gr1.jpg)
+
 -----------
 --------------
 --------------
@@ -351,8 +354,6 @@ machine-intelligence 3.0(2016)
 --------------
 ![CountdowntoSingularityLog](http://www.singularity.com/images/charts/CountdowntoSingularityLog.jpg)
 -------------
-![nTYZDAUFQrSaz](https://cdn-images-1.medium.com/max/1920/1*nTYZDAUFQrSaz-yBwuz5QQ.jpeg)
------------
 ![Major_Evolutionary_Transitions_digital](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Major_Evolutionary_Transitions_digital.jpg/1024px-Major_Evolutionary_Transitions_digital.jpg)
 -----------
 ![human-evolution](https://timeguide.files.wordpress.com/2014/06/human-evolution-2.jpg)
@@ -373,8 +374,11 @@ machine-intelligence 3.0(2016)
 ---------
 ![DNA_storage_graphic_WEB_2](https://www.nature.com/polopoly_fs/7.38671.1472212698!/image/DNA_storage_graphic_WEB_2.jpg_gen/derivatives/landscape_630/DNA_storage_graphic_WEB_2.jpg)
 ------------
-[217413636.cde2cb5f07430159d50a3c91e72c280a.1544486400186.1544486400187.1544486400188.1&__hssc=217413636.1.1544486400189&__hsfp=998628806](https://go.cablelabs.com/hubfs/Blog/Emerging%20Technologies%20Building%20Blocks%20&%20Catalysts%20.png?__hstc=217413636.cde2cb5f07430159d50a3c91e72c280a.1544486400186.1544486400187.1544486400188.1&__hssc=217413636.1.1544486400189&__hsfp=998628806)
-
+![217413636](https://go.cablelabs.com/hubfs/Blog/Emerging%20Technologies%20Building%20Blocks%20&%20Catalysts%20.png?__hstc=217413636.cde2cb5f07430159d50a3c91e72c280a.1544486400186.1544486400187.1544486400188.1&__hssc=217413636.1.1544486400189&__hsfp=998628806)
+-------
+![qubit-timeline-estimates-gartner](https://assets.pcmag.com/media/images/612585-qubit-timeline-estimates-gartner.jpg?thumb=y&width=980&height=912)
+---------
+![f-tech](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/f-tech.PNG)
 -----------
 -----------
 -------------
