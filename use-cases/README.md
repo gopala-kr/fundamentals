@@ -391,7 +391,9 @@ machine-intelligence 3.0(2016)
 ![US_military_personnel_and_expenditures](https://upload.wikimedia.org/wikipedia/en/f/f4/US_military_personnel_and_expenditures.png)
 ---------
 ![pounds_v1_850x600](https://d33wubrfki0l68.cloudfront.net/a53ccd49aa3a49172a7bfcc426cffdcd8d34be93/051ab/exports/military-expenditure-by-country-in-thousands-of-1900-uk-pounds_v1_850x600.svg)
+-----------
 
+![001cc448aede](https://ei.marketwatch.com/Multimedia/2017/03/23/Photos/NS/MW-FI823_DowCor_20170323160402_NS.png?uuid=dc21ed9a-1003-11e7-9078-001cc448aede)
 ---------
 ------------------
 ----------------
