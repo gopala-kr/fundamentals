@@ -405,7 +405,10 @@ machine-intelligence 3.0(2016)
 ![dow-jones-crashes1](https://seattlebubble.com/blog/wp-content/uploads/2008/10/dow-jones-crashes1.png)
 ---------
 
-![7FJumajFv_6U8M](https://www.google.com/search?q=The+Economic+Machine+Works+by+Ray+Dalio&newwindow=1&rlz=1C1GCEB_enIN813IN813&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiF8_e-hsXfAhU1TRUIHS01ApMQ_AUIDygC&biw=1280&bih=913#imgrc=7FJumajFv_6U8M:)
+![page-5.jpg](https://i2.wp.com/www.eviecourtlandt.com/wp-content/uploads/2018/08/page-5.jpg?ssl=1)
+------------
+
+![7FJumajFv_6U8M](https://lh4.googleusercontent.com/o3_qH2L5RTwaSKcmm8hlEo8BF28AyBEKqZDOJ2LwvsYKjIx7ovh1gIXD6QJ1YIK1Rl-uhHpn-VkG3cU4CN7nhIHyt_RlsQX_IOF6z-B0Pt9-CGWWJ18)
 
 ---------
 ------------------
