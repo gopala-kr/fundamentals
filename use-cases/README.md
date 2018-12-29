@@ -249,10 +249,6 @@ machine-intelligence 3.0(2016)
 ![human-Y-Chromosome-DNA](http://www.lwrw.org/human-Y-Chromosome-DNA.png)
 -------
 ![world_map_of_y-dna_haplogroups](https://natgeoeducationblog.files.wordpress.com/2015/12/world_map_of_y-dna_haplogroups.png)
-------------
-![4d7945d5cadcbb2271170000](https://static.businessinsider.com/image/4d7945d5cadcbb2271170000-750.jpg)
--------
-![hoffman-version-of-fogel-chart_large](https://www.minnpost.com/sites/default/files/attachments/hoffman-version-of-fogel-chart_large.png)
 
 -------
 ------------
@@ -266,6 +262,8 @@ machine-intelligence 3.0(2016)
 ![Time-Line-compressor](http://www.lascelleshistory.com/wp-content/uploads/2017/02/Time-Line-compressor.jpg)
 -------
 ![4576582_orig](https://mrsmerkow.files.wordpress.com/2014/07/4576582_orig.jpg)
+----------------
+---------------
 -------
 ![101_Tech_Tree_EE_v2](http://gamestudies.org/articleimages/101_Tech_Tree_EE_v2.0.jpg?m)
 -----------
@@ -285,8 +283,6 @@ machine-intelligence 3.0(2016)
 ---------
 ![timeline6](http://www.bigpicturesmallworld.com/funstuff/images/timeline6.gif)
 -------
-![timeline8](http://www.bigpicturesmallworld.com/funstuff/images/timeline8.gif)
-----------
 ![dca3d8696bace1739a4dc9a75bd1042d](https://userscontent2.emaze.com/images/2b5d844a-d3c5-43d2-ad04-a68536d307b2/dca3d8696bace1739a4dc9a75bd1042d.jpg)
 ---------
 ![02_tooltimelineai](http://earthtree.org/wp-content/uploads/2011/03/02_tooltimelineai.jpg)
@@ -367,7 +363,9 @@ machine-intelligence 3.0(2016)
 ![6a00e54fd9f059883301a3fd2e23ec970b](https://www.dr4ward.com/.a/6a00e54fd9f059883301a3fd2e23ec970b-pi)
 ---------
 ![20Technologies](https://www.nowandnext.com/PDF/Table%20of%20Disruptive%20Technologies.png)
-
+----------
+![timeline8](http://www.bigpicturesmallworld.com/funstuff/images/timeline8.gif)
+----------
 ---------
 -----------
 ![presfs](http://chaos1.hypermart.net/fullsize/presfs.gif)
@@ -445,6 +443,7 @@ machine-intelligence 3.0(2016)
 -------
 -------------
 
+
 ![space_budgets](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/space_budgets.PNG)
 --------------
 ![Space budgets](https://i.dailymail.co.uk/i/pix/2015/08/17/19/2B712F8B00000578-3201213-image-a-21_1439835002972.jpg)
@@ -504,14 +503,19 @@ machine-intelligence 3.0(2016)
 ------------
 ![Dusk to dawn](https://cdn-images-1.medium.com/max/1200/1*ZGiVFDL5Kq3NtpR13oEAeQ.jpeg)
 ---------
-2193
-![2193](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/2193.gif)
----------
 ![Future as fore told](https://ourworldindata.org/wp-content/uploads/2014/11/ourworldindata_futureevents_giorgialupi_large1.jpg)
 -----------
+2193
+
+![2193](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/2193.gif)
+---------
+
 ![ScienceExplorationTechnology](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg/900px-NASA-JourneyToMars-ScienceExplorationTechnology-20141202.jpg)
+
 -----------
+
 [You have only 80,000 hours](https://80000hours.org/)
+
 --------
 ---------------
 --------------
