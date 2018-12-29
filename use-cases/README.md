@@ -365,6 +365,8 @@ machine-intelligence 3.0(2016)
 ![20Technologies](https://www.nowandnext.com/PDF/Table%20of%20Disruptive%20Technologies.png)
 ----------
 ![timeline8](http://www.bigpicturesmallworld.com/funstuff/images/timeline8.gif)
+
+
 ----------
 ---------
 -----------
@@ -394,6 +396,17 @@ machine-intelligence 3.0(2016)
 -----------
 
 ![001cc448aede](https://ei.marketwatch.com/Multimedia/2017/03/23/Photos/NS/MW-FI823_DowCor_20170323160402_NS.png?uuid=dc21ed9a-1003-11e7-9078-001cc448aede)
+
+-----------
+
+![crashes](https://steemitimages.com/DQmcY3jycW2Wdtd2QHg9TGBTnpg6dBFqJezDG3w4e12YGH7/catastrophic%20stock%20market%20crash%20is%20on%20the%20horizon.jpg)
+------------
+
+![dow-jones-crashes1](https://seattlebubble.com/blog/wp-content/uploads/2008/10/dow-jones-crashes1.png)
+---------
+
+![7FJumajFv_6U8M](https://www.google.com/search?q=The+Economic+Machine+Works+by+Ray+Dalio&newwindow=1&rlz=1C1GCEB_enIN813IN813&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiF8_e-hsXfAhU1TRUIHS01ApMQ_AUIDygC&biw=1280&bih=913#imgrc=7FJumajFv_6U8M:)
+
 ---------
 ------------------
 ----------------
