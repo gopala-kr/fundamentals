@@ -386,6 +386,8 @@ machine-intelligence 3.0(2016)
 ![Bell_labs](https://static01.nyt.com/images/2012/02/26/sunday-review/26bell-gfx/26bell-gfx-popup-v2.png)
 --------
 ![historyoftheinternet-timeline](http://mmg.nextleapmediagro.netdna-cdn.com/wp-content/uploads/2014/02/historyoftheinternet-timeline.png)
+---------
+![timeline](https://www.w3.org/2005/01/timelines/timeline-2500x998.png)
 -----------
 --------------
 --------------
@@ -491,7 +493,10 @@ machine-intelligence 3.0(2016)
 ![7FJumajFv_6U8M](https://lh4.googleusercontent.com/o3_qH2L5RTwaSKcmm8hlEo8BF28AyBEKqZDOJ2LwvsYKjIx7ovh1gIXD6QJ1YIK1Rl-uhHpn-VkG3cU4CN7nhIHyt_RlsQX_IOF6z-B0Pt9-CGWWJ18)
 ----------
 ![53b2e4326bb3f7ee09603d6c](https://amp.businessinsider.com/images/53b2e4326bb3f7ee09603d6c-750-984.jpg)
-
+----------
+![56941c23c08a8017028b897e](https://amp.businessinsider.com/images/56941c23c08a8017028b897e-750-1072.png)
+----------
+![eprs-briefing-572820-iran-nuclear-agreement_final2_3](https://libraryeuroparl.files.wordpress.com/2016/01/eprs-briefing-572820-iran-nuclear-agreement_final2_3.png)
 ---------
 ------------------
 ----------------
