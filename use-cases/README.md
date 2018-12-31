@@ -1,7 +1,7 @@
 
 --------------------
 > #### 0th
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 ---------------------------------
 ![Gartner_innovation_cycle](https://cdn-images-1.medium.com/max/800/1*OC4rR9I_FAX0T5Y30nyOLw.png)
@@ -154,9 +154,9 @@ machine-intelligence 3.0(2016)
 -------------------
 -----------
 -------
-> #### 50th
+> #### 25th
 
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 ![25_GDP_contribution_by_major_economies_of_the_world](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/1_AD_to_2008_AD_trends_in_%25_GDP_contribution_by_major_economies_of_the_world.png/1280px-1_AD_to_2008_AD_trends_in_%25_GDP_contribution_by_major_economies_of_the_world.png)
 -------
@@ -201,6 +201,10 @@ machine-intelligence 3.0(2016)
 ---------------
 ----------------
 -----------
+> #### 50th
+
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
+
 ![-Population-18](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/World-Population-1800-2100.svg/800px-World-Population-1800-2100.svg.png)
 ------
 ![Population_curve](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Population_curve.svg/1280px-Population_curve.svg.png)
@@ -241,9 +245,9 @@ machine-intelligence 3.0(2016)
 ---------------------
 ------------------
 ---------------------
-> #### 25th
+> #### 60th
 
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 ![Cosmic_Calendar](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/Cosmic_Calendar.png)
 -----------
@@ -282,6 +286,8 @@ machine-intelligence 3.0(2016)
 -------
 ------------
 --------------
+
+
 ![Timeline_of_Ancient_History](https://upload.wikimedia.org/wikipedia/commons/1/1d/Timeline_of_Ancient_History.png)
 ----------
 ![World history](https://images-na.ssl-images-amazon.com/images/I/A1QO0k%2B1wZL.jpg)
@@ -294,6 +300,11 @@ machine-intelligence 3.0(2016)
 ----------------
 ---------------
 -------
+
+> #### 70th
+
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
+
 ![101_Tech_Tree_EE_v2](http://gamestudies.org/articleimages/101_Tech_Tree_EE_v2.0.jpg?m)
 -----------
 ![db5109f1d64dc2c6be596d79fb5b0c5d](https://i.pinimg.com/736x/db/51/09/db5109f1d64dc2c6be596d79fb5b0c5d--timeline-separate.jpg)
@@ -373,7 +384,9 @@ machine-intelligence 3.0(2016)
 -----------
 --------------
 --------------
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
+> #### 80th
+
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 ![All](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/All.things.150.jpg)
 --------------
@@ -478,9 +491,9 @@ machine-intelligence 3.0(2016)
 ------------------
 ----------------
 
-> #### 75th
+> #### 90th
 
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 ![Space Race Begins](https://i.imgur.com/uFzTffF.jpg)
 -------------
@@ -584,9 +597,10 @@ machine-intelligence 3.0(2016)
 -----------
 -------------------
 ------------
-> #### 100th
+> #### 90th
 
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
+
 
 ![Universe in 1 year](https://cdn-images-1.medium.com/max/1200/1*V0iGHsxd2FNAIThVdngUxg.png)
 ------------
@@ -605,8 +619,7 @@ machine-intelligence 3.0(2016)
 
 [You have only 80,000 hours](https://80000hours.org/)
 
-
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 --------
 ---------------
