@@ -1,13 +1,11 @@
 
 
 ---------------------------------
-![OC4rR9I_FAX0T5Y30nyOLw](https://cdn-images-1.medium.com/max/800/1*OC4rR9I_FAX0T5Y30nyOLw.png)
+![Gartner_innovation_cycle](https://cdn-images-1.medium.com/max/800/1*OC4rR9I_FAX0T5Y30nyOLw.png)
 -----------
-![wy6ySSPOCqUa0cK](https://cdn-images-1.medium.com/max/2000/1*wy6ySSPOCqUa0cK-ZLvDdA.png)
+![Emmotional Jurney](https://cdn-images-1.medium.com/max/2000/1*wy6ySSPOCqUa0cK-ZLvDdA.png)
 -----------
-![-Shot-2018-04-04-at-1](https://2eof2j3oc7is20vt9q3g7tlo5xe-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-04-at-12.02.00-PM.png)
------------
-![Big_tech_in_AI_2](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/02151809/Big_tech_in_AI_2-884x1024.png)
+![Risk_triage](https://2eof2j3oc7is20vt9q3g7tlo5xe-wpengine.netdna-ssl.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-04-at-12.02.00-PM.png)
 -----------
 ![Microsoft](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/19112631/Microsoft-Google-in-AI-1024x627.png)
 -----------
@@ -15,22 +13,22 @@
 -----------
 ![Google](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/15130102/Google-Mentions-of-Voice-1024x595.png)
 -------
-![edgsuiFenFBb2OV7fwetyA](https://cdn-images-1.medium.com/max/880/1*edgsuiFenFBb2OV7fwetyA.jpeg)
------------
-![ai-2018](https://fortunedotcom.files.wordpress.com/2018/01/ai.png)
------------
-![JMU4GROaLzvHgXQ8_moLKw](https://cdn-images-1.medium.com/max/1320/1*JMU4GROaLzvHgXQ8_moLKw.png)
------------
 ![ai-terms1](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/30152741/ai-terms1.png)
+---------------
+![uc_reveneue](https://github.com/ci-ai/fundamentals/blob/master/use-cases/uc_revenue.PNG)
+-------
+![Big_tech_in_AI_2](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/02151809/Big_tech_in_AI_2-884x1024.png)
+------
+![ai-2018-startups](https://fortunedotcom.files.wordpress.com/2018/01/ai.png)
 -----------
-![smart111](https://www.bernardmarr.com/img/smart111.png)
-
+![patent holders](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/AI_patents_startups.png)
+-----------
+![Ai_landscape](https://cdn-images-1.medium.com/max/1320/1*JMU4GROaLzvHgXQ8_moLKw.png)
+-----------
 ![ai-toolchain-2018f](https://www.blumbergcapital.com/cnt/uploads/2018/11/ai-toolchain-2018f.png)
 source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolchain-2018/)
 -----------
 ![Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
------------
-![machine intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--gxPnyf4H--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,fl_keep_iptc.progressive.apng/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
 -----------
 ![AI 100 2018](https://v.fastcdn.co/t/11443291/ae1c86ce/1514999158-25843266-884x646x884x647x0x1-121917-AI-100-Market.png)
 ----------
@@ -38,10 +36,7 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ----------
 [2018_Matt_Turck_IoT_Landscape_Final](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
 -------------
------------
-![uc_r](https://github.com/ci-ai/fundamentals/blob/master/use-cases/uc_revenue.PNG)
----------------
-![patent holders](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/AI_patents_startups.png)
+![AI race](https://cdn-images-1.medium.com/max/880/1*edgsuiFenFBb2OV7fwetyA.jpeg)
 ---------------------
 ![machine-intelligence](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/02/27121525/AI_MA_race_feb2018.png)
 --------------
@@ -108,6 +103,8 @@ machine-intelligence 3.0(2016)
 ![chartoftheday_16478_domain_backlinks_website_n](https://infographic.statista.com/normal/chartoftheday_16478_domain_backlinks_website_n.jpg)
 -------
 ![3GzROVEHyqVpluj1WVGYWQ](https://cdn-images-1.medium.com/max/800/1*3GzROVEHyqVpluj1WVGYWQ.jpeg)
+-----
+![statup_chart](https://www.bernardmarr.com/img/smart111.png)
 
 -------
 ------------
