@@ -1,5 +1,7 @@
 
-
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
+--------------------
+> #### 0th
 ---------------------------------
 ![Gartner_innovation_cycle](https://cdn-images-1.medium.com/max/800/1*OC4rR9I_FAX0T5Y30nyOLw.png)
 -----------
@@ -146,9 +148,14 @@ machine-intelligence 3.0(2016)
 - [The-Growth-Handbook](https://marketing.intercomcdn.com/assets/the-growth-handbook/v1/The-Growth-Handbook-by-Intercom.pdf)
 - [dev.tube](https://dev.tube/?ref=producthunt)
 
+
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
+
 -------------------
 -----------
 -------
+> #### 50th
+
 ![25_GDP_contribution_by_major_economies_of_the_world](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/1_AD_to_2008_AD_trends_in_%25_GDP_contribution_by_major_economies_of_the_world.png/1280px-1_AD_to_2008_AD_trends_in_%25_GDP_contribution_by_major_economies_of_the_world.png)
 -------
 ![economy](https://mediamera.ru/sites/default/files/images/world-economy-by-gdp-2017-7c32.png)
@@ -226,9 +233,14 @@ machine-intelligence 3.0(2016)
 -------
 ![Comparison_gender_life_expectancy_CIA_factbook.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Comparison_gender_life_expectancy_CIA_factbook.svg/1024px-Comparison_gender_life_expectancy_CIA_factbook.svg.png)
 
+
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
+
 ---------------------
 ------------------
 ---------------------
+> #### 25th
+
 ![Cosmic_Calendar](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/Cosmic_Calendar.png)
 -----------
 ![map_img_833596_1487184426](https://wh1k8zidop.inscname.net/games/images/map_img_833596_1487184426.jpg)
@@ -351,6 +363,9 @@ machine-intelligence 3.0(2016)
 
 ![0Qmcgff5rcl4bkIgc](https://cdn-images-1.medium.com/max/720/1*0Qmcgff5rcl4bkIgc-jpBA.png)
 
+
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
+
 -----------
 --------------
 --------------
@@ -452,9 +467,14 @@ machine-intelligence 3.0(2016)
 
 ![7FJumajFv_6U8M](https://lh4.googleusercontent.com/o3_qH2L5RTwaSKcmm8hlEo8BF28AyBEKqZDOJ2LwvsYKjIx7ovh1gIXD6QJ1YIK1Rl-uhHpn-VkG3cU4CN7nhIHyt_RlsQX_IOF6z-B0Pt9-CGWWJ18)
 
+
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
+
 ---------
 ------------------
 ----------------
+
+> #### 75th
 
 ![Space Race Begins](https://i.imgur.com/uFzTffF.jpg)
 -------------
@@ -558,6 +578,7 @@ machine-intelligence 3.0(2016)
 -----------
 -------------------
 ------------
+> #### 100th
 
 ![Universe in 1 year](https://cdn-images-1.medium.com/max/1200/1*V0iGHsxd2FNAIThVdngUxg.png)
 ------------
@@ -575,6 +596,9 @@ machine-intelligence 3.0(2016)
 -----------
 
 [You have only 80,000 hours](https://80000hours.org/)
+
+
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
 
 --------
 ---------------
