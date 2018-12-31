@@ -24,6 +24,20 @@
 ![ai-terms1](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/11/30152741/ai-terms1.png)
 -----------
 ![smart111](https://www.bernardmarr.com/img/smart111.png)
+
+![ai-toolchain-2018f](https://www.blumbergcapital.com/cnt/uploads/2018/11/ai-toolchain-2018f.png)
+source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolchain-2018/)
+-----------
+![Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
+-----------
+![machine intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--gxPnyf4H--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,fl_keep_iptc.progressive.apng/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
+-----------
+![AI 100 2018](https://v.fastcdn.co/t/11443291/ae1c86ce/1514999158-25843266-884x646x884x647x0x1-121917-AI-100-Market.png)
+----------
+[enterprise_ai_landscape_2018_2019](https://www.topbots.com/downloads/infographics/topbots_enterprise_ai_landscape_2018_2019_v2.pdf)
+----------
+[2018_Matt_Turck_IoT_Landscape_Final](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
+-------------
 -----------
 ![uc_r](https://github.com/ci-ai/fundamentals/blob/master/use-cases/uc_revenue.PNG)
 ---------------
