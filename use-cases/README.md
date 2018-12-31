@@ -313,8 +313,6 @@ machine-intelligence 3.0(2016)
 -----------
 ![81XgUJnr0tL](https://images-na.ssl-images-amazon.com/images/I/81XgUJnr0tL._SL1500_.jpg)
 -----------
-![power_075](http://www.cs.trincoll.edu/~ram/cpsc352/exponential/power_075.jpg)
----------
 ![Timeline](https://www.davidstreams.com/wp-content/uploads/2015/08/Timeline.jpg)
 -----------
 ![BCQuSt8CMAAcFWV](https://pbs.twimg.com/media/BCQuSt8CMAAcFWV.jpg:large)
@@ -355,6 +353,8 @@ machine-intelligence 3.0(2016)
 --------------
 ![All](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/All.things.150.jpg)
 --------------
+![power_075](http://www.cs.trincoll.edu/~ram/cpsc352/exponential/power_075.jpg)
+---------
 ![HBP%201](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/HBP%201.jpg)
 -----------
 ![growth](https://i2.wp.com/timdettmers.com/wp-content/uploads/2015/07/growth.jpg)
