@@ -311,10 +311,10 @@ machine-intelligence 3.0(2016)
 -----------
 ![Timeline1b](http://www.bigpicturesmallworld.com/funstuff/images/Timeline1b.gif)
 -------
-![timeline2](http://www.bigpicturesmallworld.com/funstuff/images/timeline2.gif)
---------
 ![timeline3](http://www.bigpicturesmallworld.com/funstuff/images/timeline3.gif)
 ----------
+![timeline2](http://www.bigpicturesmallworld.com/funstuff/images/timeline2.gif)
+--------
 ![timeline4](http://www.bigpicturesmallworld.com/funstuff/images/timeline4.gif)
 ----------
 ![timeline5](http://www.bigpicturesmallworld.com/funstuff/images/timeline5.gif)
