@@ -477,7 +477,8 @@ machine-intelligence 3.0(2016)
 ![pounds_v1_850x600](https://d33wubrfki0l68.cloudfront.net/a53ccd49aa3a49172a7bfcc426cffdcd8d34be93/051ab/exports/military-expenditure-by-country-in-thousands-of-1900-uk-pounds_v1_850x600.svg)
 -----------
 ![001cc448aede](https://ei.marketwatch.com/Multimedia/2017/03/23/Photos/NS/MW-FI823_DowCor_20170323160402_NS.png?uuid=dc21ed9a-1003-11e7-9078-001cc448aede)
-
+-----------
+![nuclear_explosions_since](https://cdn.vox-cdn.com/thumbor/-TmLx9FpoR52wamq-aLVoczUkBA=/0x29:1944x1487/1400x1050/filters:focal(0x29:1944x1487):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/40594506/nuclear_explosions_since_1945.0.0.png)
 -----------
 ![crashes](https://steemitimages.com/DQmcY3jycW2Wdtd2QHg9TGBTnpg6dBFqJezDG3w4e12YGH7/catastrophic%20stock%20market%20crash%20is%20on%20the%20horizon.jpg)
 ------------
@@ -485,8 +486,11 @@ machine-intelligence 3.0(2016)
 ---------
 ![page-5.jpg](https://i2.wp.com/www.eviecourtlandt.com/wp-content/uploads/2018/08/page-5.jpg?ssl=1)
 ------------
+![npp-ww](https://www.euronuclear.org/info/encyclopedia/images/npp-ww-1116.jpg)
+--------
 ![7FJumajFv_6U8M](https://lh4.googleusercontent.com/o3_qH2L5RTwaSKcmm8hlEo8BF28AyBEKqZDOJ2LwvsYKjIx7ovh1gIXD6QJ1YIK1Rl-uhHpn-VkG3cU4CN7nhIHyt_RlsQX_IOF6z-B0Pt9-CGWWJ18)
-
+----------
+![53b2e4326bb3f7ee09603d6c](https://amp.businessinsider.com/images/53b2e4326bb3f7ee09603d6c-750-984.jpg)
 
 ---------
 ------------------
