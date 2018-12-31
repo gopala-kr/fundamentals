@@ -390,7 +390,7 @@ machine-intelligence 3.0(2016)
 ---------
 ![DNA_storage_graphic_WEB_2](https://www.nature.com/polopoly_fs/7.38671.1472212698!/image/DNA_storage_graphic_WEB_2.jpg_gen/derivatives/landscape_630/DNA_storage_graphic_WEB_2.jpg)
 ------------
-![217413636](https://go.cablelabs.com/hubfs/Blog/Emerging%20Technologies%20Building%20Blocks%20&%20Catalysts%20.png?__hstc=217413636.cde2cb5f07430159d50a3c91e72c280a.1544486400186.1544486400187.1544486400188.1&__hssc=217413636.1.1544486400189&__hsfp=998628806)
+![dna](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/dna.PNG)
 -------
 ![qubit-timeline-estimates-gartner](https://assets.pcmag.com/media/images/612585-qubit-timeline-estimates-gartner.jpg?thumb=y&width=980&height=912)
 ---------
