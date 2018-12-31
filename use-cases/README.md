@@ -429,8 +429,6 @@ machine-intelligence 3.0(2016)
 ![f-tech](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/f-tech.PNG)
 
 -----------
------------
--------------
 ![Tech-Timeline_Snap](http://www.driversofchange.com/wp-content/uploads/2017/07/Tech-Timeline_Snap.jpg)
 -----------
 ![6a00e54fd9f059883301a3fd2e23ec970b](https://www.dr4ward.com/.a/6a00e54fd9f059883301a3fd2e23ec970b-pi)
@@ -440,7 +438,8 @@ machine-intelligence 3.0(2016)
 ![timeline8](http://www.bigpicturesmallworld.com/funstuff/images/timeline8.gif)
 -----------
 ![1ehl4Bb3KIsANTzdjX1kzQ](https://cdn-images-1.medium.com/max/2000/1*1ehl4Bb3KIsANTzdjX1kzQ.jpeg)
-
+---------
+![fiction_to_reality](https://i.pinimg.com/originals/05/de/28/05de28916097a7d17e65cfeeaad49e0e.jpg)
 ----------
 ---------
 -----------
