@@ -601,8 +601,6 @@ machine-intelligence 3.0(2016)
 
 | [0th](#0th) | [25th](#25th) | [40th](#40th) | [50th](#50th) | [60th](#60th) |  [70th](#70th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
-
 
 ![Universe in 1 year](https://cdn-images-1.medium.com/max/1200/1*V0iGHsxd2FNAIThVdngUxg.png)
 ------------
