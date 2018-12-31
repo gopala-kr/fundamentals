@@ -1,8 +1,7 @@
 
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
-
 --------------------
 > #### 0th
+| [0th](#0th) | [25th](#25th) | [50th](#50th) | [75th](#75th) | [100th](#100th) |
 ---------------------------------
 ![Gartner_innovation_cycle](https://cdn-images-1.medium.com/max/800/1*OC4rR9I_FAX0T5Y30nyOLw.png)
 -----------
