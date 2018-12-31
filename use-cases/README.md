@@ -378,8 +378,12 @@ machine-intelligence 3.0(2016)
 
 ----------------
 ![GiS-Poster-design-DNA-vF-845x684](https://www.minipcr.com/wp-content/uploads/GiS-Poster-design-DNA-vF-845x684.jpg)
-
-
+------------
+![IBM-History-Timeline](https://www.officetimeline.com/blog/image.axd?picture=/2017/06/IBM-History-Timeline.png)
+----------
+![gadgetstimeline](http://anddum.com/timeline/timelinepics/gadgetstimeline.jpg)
+-----------
+![Bell_labs](https://static01.nyt.com/images/2012/02/26/sunday-review/26bell-gfx/26bell-gfx-popup-v2.png)
 -----------
 --------------
 --------------
@@ -525,6 +529,8 @@ machine-intelligence 3.0(2016)
 ![space-travel-timeline](http://wall--art.com/wp-content/uploads/2014/08/space-travel-timeline.jpg)
 --------
 ![NASA-Manned-Spaceflight-Infographic](https://i2.wp.com/www.spacesafetymagazine.com/wp-content/uploads/2012/11/NASA-Manned-Spaceflight-Infographic.jpg)
+-------
+![NASA](http://i.imgur.com/ca9iz.jpg)
 ---------
 ![50-years-of-exploration](http://www.5wgraphics.com/img/newsletter/50-years-of-exploration.jpg)
 ----------
@@ -565,6 +571,8 @@ machine-intelligence 3.0(2016)
 ---------
 ![spacex timeline](https://pbs.twimg.com/media/DcW9ESBXcAAUPQl.jpg)
 ------------
+![/rocket-capability-poster](https://www.spacex.com/sites/spacex/files/rocket-capability-poster.png)
+--------
 ![Space age](https://noosphereventures.com/wp-content/uploads/2018/09/1509467229_bofaml_space_nutshell.png)
 ------------
 ![new sapce](https://noosphereventures.com/wp-content/uploads/2018/09/Snimok45.png)
