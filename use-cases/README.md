@@ -384,6 +384,8 @@ machine-intelligence 3.0(2016)
 ![gadgetstimeline](http://anddum.com/timeline/timelinepics/gadgetstimeline.jpg)
 -----------
 ![Bell_labs](https://static01.nyt.com/images/2012/02/26/sunday-review/26bell-gfx/26bell-gfx-popup-v2.png)
+--------
+![historyoftheinternet-timeline](http://mmg.nextleapmediagro.netdna-cdn.com/wp-content/uploads/2014/02/historyoftheinternet-timeline.png)
 -----------
 --------------
 --------------
@@ -477,16 +479,12 @@ machine-intelligence 3.0(2016)
 ![001cc448aede](https://ei.marketwatch.com/Multimedia/2017/03/23/Photos/NS/MW-FI823_DowCor_20170323160402_NS.png?uuid=dc21ed9a-1003-11e7-9078-001cc448aede)
 
 -----------
-
 ![crashes](https://steemitimages.com/DQmcY3jycW2Wdtd2QHg9TGBTnpg6dBFqJezDG3w4e12YGH7/catastrophic%20stock%20market%20crash%20is%20on%20the%20horizon.jpg)
 ------------
-
 ![dow-jones-crashes1](https://seattlebubble.com/blog/wp-content/uploads/2008/10/dow-jones-crashes1.png)
 ---------
-
 ![page-5.jpg](https://i2.wp.com/www.eviecourtlandt.com/wp-content/uploads/2018/08/page-5.jpg?ssl=1)
 ------------
-
 ![7FJumajFv_6U8M](https://lh4.googleusercontent.com/o3_qH2L5RTwaSKcmm8hlEo8BF28AyBEKqZDOJ2LwvsYKjIx7ovh1gIXD6QJ1YIK1Rl-uhHpn-VkG3cU4CN7nhIHyt_RlsQX_IOF6z-B0Pt9-CGWWJ18)
 
 
@@ -589,7 +587,6 @@ machine-intelligence 3.0(2016)
 ---------
 ----------
 -----------
-
 
 ![Future-of-Exploration](http://www.spaceopedia.com/wp-content/uploads/2017/07/Future-of-Exploration.jpg)
 --------
