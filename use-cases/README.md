@@ -19,6 +19,8 @@
 -------
 ![Big_tech_in_AI_2](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/02151809/Big_tech_in_AI_2-884x1024.png)
 ------
+![AI_MA_race_feb2018](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/02/27121525/AI_MA_race_feb2018.png)
+--------------
 ![ai-2018-startups](https://fortunedotcom.files.wordpress.com/2018/01/ai.png)
 -----------
 ![patent holders](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/04/AI_patents_startups.png)
@@ -26,45 +28,52 @@
 ![Ai_landscape](https://cdn-images-1.medium.com/max/1320/1*JMU4GROaLzvHgXQ8_moLKw.png)
 -----------
 ![ai-toolchain-2018f](https://www.blumbergcapital.com/cnt/uploads/2018/11/ai-toolchain-2018f.png)
+
 source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolchain-2018/)
+
 -----------
 ![Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
 -----------
-![AI 100 2018](https://v.fastcdn.co/t/11443291/ae1c86ce/1514999158-25843266-884x646x884x647x0x1-121917-AI-100-Market.png)
-----------
+
 [enterprise_ai_landscape_2018_2019](https://www.topbots.com/downloads/infographics/topbots_enterprise_ai_landscape_2018_2019_v2.pdf)
+
 ----------
 [2018_Matt_Turck_IoT_Landscape_Final](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
+
 -------------
 ![AI race](https://cdn-images-1.medium.com/max/880/1*edgsuiFenFBb2OV7fwetyA.jpeg)
 ---------------------
-![machine-intelligence](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/02/27121525/AI_MA_race_feb2018.png)
---------------
 machine-intelligence 2.0(2015)
+
 ![machine-intelligence 2.0](https://www.techemergence.com/wp-content/uploads/2016/07/Screen-Shot-2016-07-21-at-5.24.54-PM.png)
+
 -------------------
 machine-intelligence 3.0(2016)
+
 ![machine-intelligence 3.0](https://www.techemergence.com/wp-content/uploads/2016/07/artificial-intelligence-industry-an-overview-by-segment-2.jpg)
+
 ---------------
+![AI 100 2018](https://v.fastcdn.co/t/11443291/ae1c86ce/1514999158-25843266-884x646x884x647x0x1-121917-AI-100-Market.png)
+----------
 ![CB-Investors2](https://www.techemergence.com/wp-content/uploads/2016/07/CB-Investors2.png)
+----------
+![RnD](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13120644/RnD.png)
 ----------
 ![CBI-Tech-Startups-Map](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/01/19170900/CBI-Tech-Startups-Map.jpg)
 -----------
 ![BAT-AI-deals-geo_2018](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/25154530/BAT-AI-deals-geo_2018-04.png)
 -----------
-![exitchart6](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/05/10184136/exitchart6-1024x768.jpg)
------------
 ![alphabet](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/20143604/alphabet-structure.png)
 -----------
-![cbi](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13120644/RnD.png)
-----------
 ![research](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/15191614/robots3.png)
 ----------
 ![chartoftheday_13840_main_concerns_ai_customer_service_india_n](https://infographic.statista.com/normal/chartoftheday_13840_main_concerns_ai_customer_service_india_n.jpg)
 -----------
+![exitchart6](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/05/10184136/exitchart6-1024x768.jpg)
+-----------
 ![key-social-2-768x519](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/05/02221408/key-social-2-768x519.png)
 -----------
-![images.forbes.](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Falexkonrad%2Ffiles%2F2017%2F06%2FSARP.jpg)
+![accelerators](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Falexkonrad%2Ffiles%2F2017%2F06%2FSARP.jpg)
 -----------
 ![unnamed.png](https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/02/unnamed.png)
 ----------
