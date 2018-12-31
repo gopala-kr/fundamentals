@@ -114,7 +114,10 @@ machine-intelligence 3.0(2016)
 ![3GzROVEHyqVpluj1WVGYWQ](https://cdn-images-1.medium.com/max/800/1*3GzROVEHyqVpluj1WVGYWQ.jpeg)
 -----
 ![statup_chart](https://www.bernardmarr.com/img/smart111.png)
-
+--------
+![cloud-services-marketshare](https://static5.businessinsider.com/image/5a313fcdb0bcd58c028b4832-688/cloud-services-marketshare.png)
+-------
+![stacking-up-cloud-vendors-2018-right-scale-2](https://zdnet2.cbsistatic.com/hub/i/r/2018/02/09/1a47f155-1262-4ead-838d-97ec0e662d09/resize/770xauto/1c0e60f3350a67160b54debb5c002a0b/stacking-up-cloud-vendors-2018-right-scale-2.png)
 -------
 ------------
 --------------
