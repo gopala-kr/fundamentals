@@ -1,7 +1,7 @@
 
 --------------------
 > #### 0th
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
+| [0th](#0th) | [25th](#25th) | [40th](#40th) | [50th](#50th) | [60th](#60th) |  [70th](#70th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 ---------------------------------
 ![Gartner_innovation_cycle](https://cdn-images-1.medium.com/max/800/1*OC4rR9I_FAX0T5Y30nyOLw.png)
@@ -155,8 +155,7 @@ machine-intelligence 3.0(2016)
 -----------
 -------
 > #### 25th
-
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
+| [0th](#0th) | [25th](#25th) | [40th](#40th) | [50th](#50th) | [60th](#60th) |  [70th](#70th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 ![25_GDP_contribution_by_major_economies_of_the_world](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/1_AD_to_2008_AD_trends_in_%25_GDP_contribution_by_major_economies_of_the_world.png/1280px-1_AD_to_2008_AD_trends_in_%25_GDP_contribution_by_major_economies_of_the_world.png)
 -------
@@ -201,9 +200,8 @@ machine-intelligence 3.0(2016)
 ---------------
 ----------------
 -----------
-> #### 50th
-
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
+> #### 40th
+| [0th](#0th) | [25th](#25th) | [40th](#40th) | [50th](#50th) | [60th](#60th) |  [70th](#70th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 ![-Population-18](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/World-Population-1800-2100.svg/800px-World-Population-1800-2100.svg.png)
 ------
@@ -245,9 +243,8 @@ machine-intelligence 3.0(2016)
 ---------------------
 ------------------
 ---------------------
-> #### 60th
-
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
+> #### 50th
+| [0th](#0th) | [25th](#25th) | [40th](#40th) | [50th](#50th) | [60th](#60th) |  [70th](#70th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 ![Cosmic_Calendar](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/Cosmic_Calendar.png)
 -----------
@@ -301,9 +298,10 @@ machine-intelligence 3.0(2016)
 ---------------
 -------
 
-> #### 70th
+> #### 60th
+| [0th](#0th) | [25th](#25th) | [40th](#40th) | [50th](#50th) | [60th](#60th) |  [70th](#70th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
+
 
 ![101_Tech_Tree_EE_v2](http://gamestudies.org/articleimages/101_Tech_Tree_EE_v2.0.jpg?m)
 -----------
@@ -384,9 +382,8 @@ machine-intelligence 3.0(2016)
 -----------
 --------------
 --------------
-> #### 80th
-
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
+> #### 70th
+| [0th](#0th) | [25th](#25th) | [40th](#40th) | [50th](#50th) | [60th](#60th) |  [70th](#70th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 ![All](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/All.things.150.jpg)
 --------------
@@ -429,6 +426,7 @@ machine-intelligence 3.0(2016)
 ![qubit-timeline-estimates-gartner](https://assets.pcmag.com/media/images/612585-qubit-timeline-estimates-gartner.jpg?thumb=y&width=980&height=912)
 ---------
 ![f-tech](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/space/f-tech.PNG)
+
 -----------
 -----------
 -------------
@@ -442,10 +440,12 @@ machine-intelligence 3.0(2016)
 -----------
 ![1ehl4Bb3KIsANTzdjX1kzQ](https://cdn-images-1.medium.com/max/2000/1*1ehl4Bb3KIsANTzdjX1kzQ.jpeg)
 
-
 ----------
 ---------
 -----------
+> #### 80th
+| [0th](#0th) | [25th](#25th) | [40th](#40th) | [50th](#50th) | [60th](#60th) |  [70th](#70th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
+
 ![presfs](http://chaos1.hypermart.net/fullsize/presfs.gif)
 ------------
 ![814FcoBLMfL._SL1500_1024x1024](https://cdn.shopify.com/s/files/1/0354/7457/products/814FcoBLMfL._SL1500_1024x1024.jpg?v=1410429327)
@@ -470,7 +470,6 @@ machine-intelligence 3.0(2016)
 ---------
 ![pounds_v1_850x600](https://d33wubrfki0l68.cloudfront.net/a53ccd49aa3a49172a7bfcc426cffdcd8d34be93/051ab/exports/military-expenditure-by-country-in-thousands-of-1900-uk-pounds_v1_850x600.svg)
 -----------
-
 ![001cc448aede](https://ei.marketwatch.com/Multimedia/2017/03/23/Photos/NS/MW-FI823_DowCor_20170323160402_NS.png?uuid=dc21ed9a-1003-11e7-9078-001cc448aede)
 
 -----------
@@ -492,8 +491,8 @@ machine-intelligence 3.0(2016)
 ----------------
 
 > #### 90th
+| [0th](#0th) | [25th](#25th) | [40th](#40th) | [50th](#50th) | [60th](#60th) |  [70th](#70th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
-| [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 ![Space Race Begins](https://i.imgur.com/uFzTffF.jpg)
 -------------
@@ -597,7 +596,10 @@ machine-intelligence 3.0(2016)
 -----------
 -------------------
 ------------
+
 > #### 90th
+
+| [0th](#0th) | [25th](#25th) | [40th](#40th) | [50th](#50th) | [60th](#60th) |  [70th](#70th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
 | [0th](#0th) | [25th](#25th) | [50th](#50th) | [60th](#60th) | [40th](#40th) | [70th](#75th) | [80th](#80th) |[90th](#90th) | [100th](#100th) |
 
