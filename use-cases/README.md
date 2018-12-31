@@ -480,8 +480,6 @@ machine-intelligence 3.0(2016)
 -----------
 ![001cc448aede](https://ei.marketwatch.com/Multimedia/2017/03/23/Photos/NS/MW-FI823_DowCor_20170323160402_NS.png?uuid=dc21ed9a-1003-11e7-9078-001cc448aede)
 -----------
-![nuclear_explosions_since](https://cdn.vox-cdn.com/thumbor/-TmLx9FpoR52wamq-aLVoczUkBA=/0x29:1944x1487/1400x1050/filters:focal(0x29:1944x1487):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/40594506/nuclear_explosions_since_1945.0.0.png)
------------
 ![crashes](https://steemitimages.com/DQmcY3jycW2Wdtd2QHg9TGBTnpg6dBFqJezDG3w4e12YGH7/catastrophic%20stock%20market%20crash%20is%20on%20the%20horizon.jpg)
 ------------
 ![dow-jones-crashes1](https://seattlebubble.com/blog/wp-content/uploads/2008/10/dow-jones-crashes1.png)
@@ -498,6 +496,8 @@ machine-intelligence 3.0(2016)
 ----------
 ![eprs-briefing-572820-iran-nuclear-agreement_final2_3](https://libraryeuroparl.files.wordpress.com/2016/01/eprs-briefing-572820-iran-nuclear-agreement_final2_3.png)
 ---------
+![nuclear_explosions_since](https://cdn.vox-cdn.com/thumbor/-TmLx9FpoR52wamq-aLVoczUkBA=/0x29:1944x1487/1400x1050/filters:focal(0x29:1944x1487):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/40594506/nuclear_explosions_since_1945.0.0.png)
+-----------
 ------------------
 ----------------
 
